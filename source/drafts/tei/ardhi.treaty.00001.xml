@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00001">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Treaty with Lagos, 1861</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>ocr and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00001</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Treaty with Lagos, 1861</title>
+<title level="j">Nigeria magazine</title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1961-08">August 1961</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term></term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000001">
+<persName></persName>
+</person>
+<person role="signatory" xml:id="per.0000002">
+<persName>Bedingfield, Norman B.</persName>
+</person>
+<person role="signatory" xml:id="per.0000003">
+<persName>McCoskry, William</persName>
+</person>
+<person role="signatory" xml:id="per.0000004">
+<persName>Docemo</persName>
+</person>
+<person role="signatory" xml:id="per.0000005">
+<persName>Telake</persName>
+</person>
+<person role="signatory" xml:id="per.0000006">
+<persName>Rocamena</persName>
+</person>
+<person role="signatory" xml:id="per.0000007">
+<persName>Obalekow</persName>
+</person>
+<person role="signatory" xml:id="per.0000008">
+<persName>Achebong</persName>
+</person>
+
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-03" who="#lkw"> encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="ardhi.treaty.00001.001"/>
+<div2>
+<p>Treaty with Lagos, 1861.
+Treaty between Norman B. Bedingfield,
+Commander of Her Majesty's ship Prometheus, and Senior Officer of the Bights
+Division, and William McCoskry, Esquire,
+Her Britannic Majesty's Acting Consul, on
+the part of Her Majesty the Queen of Great
+Britain, and Docemo, King of Lagos, on the
+part of himself and Chiefs.</p>
+</div2>
+<div2 type="article">
+<head type="sub">ARTICLE I</head>
+<p>In order that the Queen of England may
+be the better enabled to assist, defend, and
+protect the inhabitants of Lagos, and to put
+an end to the Slave Trade in this and the
+neighbouring countries, and to prevent the
+destructive wars so frequently undertaken by
+Dahomey and others for the capture of slaves,
+I, Docemo, do, with the consent and advice
+of my Council, give, transfer, and by these
+presents grant and confirm unto the Queen
+of Great Britain, her heirs and successors for
+ever, the port and Island of Lagos, with all
+the rights, profits, territories, and appurtenances whatsoever thereunto belonging and as
+well the profits and revenue as the direct, full,
+and absolute dominion and sovereignty of
+the said port, island and premises, with all
+the royalties thereof, freely, fully entirely, and
+absolutely. I do also covenant and grant that
+the quiet and peaceable possession thereof
+shall, with all possible speed, be freely and
+effectually delivered to the Queen of Great
+Britain, or such person as Her Majesty shall
+thereunto appoint for her use in the performance of this grant; the inhabitants of the
+said island and territories, as the Queen's
+subjects, and under her sovereignty, Crown,
+jurisdiction,   and   government,   being   still
+suffered to live there.</p>
+</div2>
+<div2 type="article">
+<head type="sub">ARTICLE II</head>
+<p>Docemo will be allowed the use of the
+title of King in its usual African signification,
+and will be permitted to decide disputes
+between natives of Lagos with their consent,
+subject to appeal to British laws.</p>
+</div2>
+<pb facs="ardhi.treaty.00001.002"/>
+<div2 type="article">
+<head>ARTICLE III</head>
+<p>In the transfer of lands,
+the stamp of Docemo affixed
+to the document will be
+proofs that there are no
+other native claims upon it,
+and for this purpose he will
+be permitted to use it as
+hitherto.</p>
+<p>In consideration of the
+cession as before-mentioned
+of the port and island and
+territories of Lagos, the Representatives of the Queen of
+Great Britain do promise,
+subject to the approval of
+Her Majesty, that Docemo
+shall receive an annual pension from the Queen of
+Great Britain equal to the
+net revenue hitherto annually received by him; such
+pension to be paid at such
+periods and in such mode as
+may hereafter be determined</p>
+</div2>
+<div2 type="signatures">
+<dateline>LAGOS, August, 1861.</dateline>
+<ab>(signed)</ab>
+<signed>DOCEMO his
+x
+mark</signed>
+
+<signed>TELAKE his
+x
+mark</signed>
+
+<signed>ROCAMENA his
+x
+mark</signed>
+
+<signed>OBALEKOW his
+x
+mark</signed>
+
+<signed>ACHEBONG 
+his
+x
+mark</signed>
+
+<signed>NORMAN   B. BEDINGFIELD,
+
+Her   Majesty's ship   Prometheus.    
+Bights Division. Senior Officer,</signed>
+<signed>W. McCOSKRY,
+Acting Consul.</signed>
+</div2>
+</div1>
+
+</body>
+</text>
+
+</TEI>
