@@ -70,7 +70,7 @@
 <term></term>
 </keywords>
 <keywords scheme="geonames" n="places">
-<term></term>
+<term key="http://www.geonames.org/2332459">Lagos, Nigeria</term>
 </keywords>
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -79,7 +79,7 @@
 <particDesc>
 <listPerson>
 <person role="signatory" xml:id="per.0000001">
-<persName></persName>
+<persName>Victoria, Queen of Great Britain, 1819-1901</persName>
 </person>
 <person role="signatory" xml:id="per.0000002">
 <persName>Bedingfield, Norman B.</persName>
