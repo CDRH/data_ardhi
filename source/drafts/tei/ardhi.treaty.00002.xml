@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"></idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Sierra Leone Treaty of 1788</title>
+<title level="m">The African-British Long Eighteenth Century</title>
+<publisher>Lexington Books</publisher>
+<biblScope></biblScope>
+<date when="1788">1788</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term key="https://viaf.org/viaf/51639355/">Naimbana, -1793</term>
+<term key="https://viaf.org/viaf/49264990/">George III, King of Great Britain, 1738-1820</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="http://www.geonames.org/2403846">Republic of Sierra Leone</term>
+<term key="https://www.geonames.org/2413451">Gambia</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000001">
+<persName>Naimbanna</persName>
+</person>
+<person role="signatory" xml:id="per.0000002">
+<persName>Taylor, John</persName>
+</person>
+<person role="signatory" xml:id="per.0000003">
+<persName>George III, King of Great Britain, 1738-1820</persName>
+</person>
+<person role="signatory" xml:id="per.0000004">
+<persName>Weaver, Richard</persName>
+</person>
+<person role="signatory" xml:id="per.0000005">
+<persName>Peall, Thomas</persName>
+</person>
+<person role="signatory" xml:id="per.0000006">
+<persName>Ellet, Benjamin</persName>
+</person>
+<person role="signatory" xml:id="per.0000007">
+<persName>Dowder, James</persName>
+</person>
+<person role="signatory" xml:id="per.0000008">
+<persName>Bongee, Pa</persName>
+</person>
+<person role="signatory" xml:id="per.0000009">
+<persName>Robbin, Bick</persName>
+</person>
+<person role="signatory" xml:id="per.0000010">
+<persName>Griffin, Abram Elliot</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-08" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="ardhi.treaty.00002.001"/>
+<div2>
+<head>SIERRA LEONE TREATY OF 1788</head>
+<p>Know all men by these present that I King Naimbanna chief of Sierra Leone on
+the Grain Coast of Africa by and with the consent of the other Kings, Princes,
+Chiefs, and Potentates subscribing hereto. In consideration of the present as by
+a list annexed now made me by Captain John Taylor of His Britannic Majesty
+in behalf of and for the sole benefit of the free community of Settlers, their
+Heirs and Successors lately arrived from England and under the protection of
+the British Government have granted and by these present do grant and forever
+quit claim to a certain district of land for the settling of the said free community 
+to be their's, their heirs and successors forever. That's to say all the land,
+wood, water, etc, which are contained from the Bay Common called Frenchman's 
+Bay, but by these presents changes to St. George's Bay coastwise up
+the river Sierra Leone to Gambia Island and Southerly or inland from the river
+side twenty miles. And forth be it known unto all men that I King Naimbanna
+do faithfully promise and swear for my Chief Gentlemen, and People likewise,
+Heirs and Successors, that I will bear true allegiance to His most Gracious Majesty 
+George the third, King of Great Britain, France, and Ireland, &amp;c &amp;c &amp;c
+. . . That the customs payable by vessels anchoring in St. George's Bay shall
+pay Ten Bars to the Free Settlers and Subjects of his Britannic Majesty. And
+the Customs paid for watering to be paid to King Naimbanna his representatives 
+or successors. That is to say Fifteen Bars as customary.</p>
+</div2>
+<div2 type="ssignatures">
+<ab>Signed,</ab>
+<signed>John Taylor</signed>
+<signed>Richard Weaver</signed>
+<signed>Thomas Peall</signed>
+<pb facs="ardhi.treaty.00002.002"/>
+<signed>Benjamin Ellet</signed>
+<signed>King Naimbanna</signed>
+<signed>James Dowder</signed>
+<signed>Pa Bongee</signed>
+<signed>Bick Robbin</signed>
+<signed>Abram Elliot Griffin</signed>
+</div2>
+<div2>
+<head type="sub">A List of the Presents given in consideration for Completing the
+Purchase of Land, &amp;c, hereunder annexed, viz:</head>
+<ab type="list">One embroidered bersode coat, waistcoast, and breeches.
+A crimson satin embroidered waistcoast.
+A lead coloured satin coat, waistcoat, and breeches.
+A mock diamond ring.
+Two pairs of pistols.
+One telescope. Two pairs of gold earrings with necklaces and drops.
+Eight dozefn??] bottles of wine.
+One puncheon of rum.
+A tierce or three hundredweight of pork.
+One box of smoking pipes.
+Seven muskets. Twenty points of tobacco.
+One piece of fine white cotton or calico.
+Ten pounds of beads in lots.
+Two cheeses weighing twenty-eight pounds.
+Two hundred gun flints.
+One dozen bottles of red port wine.</ab>
+<p>This is to certify to all to whom these presents may come, that we whose names
+are hereunto subscribed maketh oath that the purchase of the land, &amp;c, made
+by Captain Thompson was not (to our certain knowledge) valid; it having been
+purchased from people who had no authority to sell the same.</p>
+</div2>
+</div1>
+
+</body>
+</text>
+
+</TEI>
