@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh"></name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"></idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Lagos</title>
+<title level="m">Treaties and Other International Agreements of the United States of America 1776–1949</title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1972-03">March 1972</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term></term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000001">
+<persName>Mayo, Isaac</persName>
+</person>
+<person role="signatory" xml:id="per.0000002">
+<persName>Docemo</persName>
+</person>
+<person role="signatory" xml:id="per.0000003">
+<persName>Rudd, Jno.</persName>
+</person>
+<person role="signatory" xml:id="per.0000004">
+<persName>Rodgers, C.R.P.</persName>
+</person>
+<person role="signatory" xml:id="per.0000005">
+<persName>Oloomobong</persName>
+</person>
+<person role="signatory" xml:id="per.0000006">
+<persName>Talabee</persName>
+</person>
+<person role="signatory" xml:id="per.0000007">
+<persName>Oloocohe</persName>
+</person>
+<person role="signatory" xml:id="per.0000008">
+<persName>Achabong</persName>
+</person>
+<person role="signatory" xml:id="per.0000009">
+<persName>Oberchor</persName>
+</person>
+<person role="signatory" xml:id="per.0000010">
+<persName>Serber</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-08" who="#phh"></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="ardhi.treaty.00003.001"/>
+<div2>
+<head>COMMERCE</head>
+<dateline><hi rend="italic">Exchange of letter and compact on board U.S.S. Constitution off Lagos,
+July 31, 1854</hi></dateline>
+<ab><hi rend="italic">Entered into force July 31, 1854</hi></ab>
+<ab><hi rend="italic">Terminated August 6, 1861<hi rend="superscript">1</hi></hi></ab>
+<ab>6 Miller 845</ab>
+<ab><hi rend="italic">Letter of Commodore Mayo to King of Lagos</hi></ab>
+<p>Commodore Mayo Commander in Chief of the United States Naval
+Forces on the West Coast of Africa, having arrived off this port, desires to
+salute the King of Lagos.</p>
+<p>The United States have for a long time maintained a Squadron on the
+Coast of Africa, to protect the persons and property of American Citizens,
+engaged in lawful commerce; and to arrest and bring to justice all persons
+who may endeavour to prosecute the Slave trade under the cover of the
+American Flag. The Commodore has heard with much satisfaction that the
+King of Lagos has done all in his power to suppress the African Slave trade,
+and that he affords every facility to vessels that come to his territory for the
+purpose of lawful traffic. He would be much gratified by receiving from the
+King and Chiefs of Lagos some formal and written assurance that Citizens
+of the United States, may always trade freely with the people of Lagos in all
+ports, places and rivers, within their territory; and some pledge that the King
+and Chiefs will show no favor, and give no privilege to the Ships and traders
+of other countries, which they do not show to those of the United States, and
+that all Citizens of the United States shall, under all circumstances, be placed
+upon the same footing with the Citizens of the most favored Nation.</p>
+<ab type="footnote"><hi rend="superscript">1</hi> Date of cession of port and island of Lagos to Great Britain.</ab>
+<fw>513</fw>
+
+<pb facs="ardhi.treaty.00003.001"/>
+<fw>514</fw>
+<ab>COMMERCE—JULY 31, 1854</ab>
+<p>Commodore Mayo requests the King to receive the assurance of his high
+respect and consideration.</p>
+<dateline>U.S. Flag Ship Constitution.
+<hi rend="superscript">Off Lagos, 31<hi rend="superscript">st</hi> July 1854.</hi>
+To His Majesty the King of Lagos.</dateline>
+</div2>
+<div2>
+<ab><hi rend="superscript">Compact by King and Chiefs of Lagos</hi></ab>
+<p>Docemo, King of Lagos, with his Chiefs and Councellors having carefully
+considered and discussed the propositions contained in the foregoing letter,
+do on the part of themselves and of their country, hereby assent to all the
+aforesaid propositions, and solemnly promise and guarantee to all Citizens
+of the United States, every right, and privilege which may at any time be
+granted to the most favored nation with whom the King and Chiefs of Lagos
+have already, or, may hereafter, form a treaty, or conclude an agreement.</p>
+</div2>
+<div2 type="signatures">
+<ab>Witnesses.</ab>
+<ab>Jno. Rudd.
+<hi rend="italic">Commander US Navy.</hi></ab>
+<ab>C.R.P. Rodgers
+<hi rend="italic">Flag Lieut Af.Sq<hi rend="superscript">n</hi></hi></ab>
+<ab>Flag Ship Constitution
+<hi rend="superscript">Off Lagos 31st July 1854.</hi></ab>
+<signed>KING X	Docemo</signed>
+<signed>Oloomobong	X</signed>
+<signed>Talabee     X</signed>
+<signed>Oloocohe	X</signed>
+<signed>Achabong	X</signed>
+<signed>Oberchor	X</signed>
+<signed>Serber	X</signed>
+</div2>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
