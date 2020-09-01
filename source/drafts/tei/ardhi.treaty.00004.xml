@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00004">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"></idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Abyssinia</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1000"></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term>Great Britain</term>
+<term>Ethiopia</term>
+<term>Italy</term>
+<term>Sudan</term>
+<term>Eritrea</term>
+<term>Adis Ababa</term>
+<term>Khor Um Hagar</term>
+<term>Gallabat</term>
+<term>Blue Nile</term>
+<term>Baro</term>
+<term>Pibor</term>
+<term>Akobo Rivers</term>
+<term>Melile</term>
+<term>Greenwich</term>
+<term>Lake Tsana</term>
+<term>Sobat</term>
+<term>Itang</term>
+<term>Uganda</term>
+<term>Setit</term>
+<term>Maieteb</term>
+<term>Mount Ala Tacura</term>
+<term>Mareb</term>
+<term>Mai Ambessa</term>
+<term>Sabderat</term>
+<term>Abu Jamal</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000001">
+<persName>Edward VII, King of Great Britain</persName>
+</person>
+<person role="signatory" xml:id="per.0000002">
+<persName>Harrington, John Lane</persName>
+</person>
+<person role="signatory" xml:id="per.0000003">
+<persName>Menelek II</persName>
+</person>
+<person role="signatory" xml:id="per.0000004">
+<persName>Ciccodicola, Federico</persName>
+</person>
+<person role="signatory" xml:id="per.0000005">
+<persName>Emmanuel III, Victor</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-08" who="#phh"></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="ardhi.treaty.00004.001"/>
+<div2>
+<head>ABYSSINIA</head>
+<ab>TREATIES <hi rend="italic">between Great Britain and Ethiopia, and between
+Great Britain, Italy, and Ethiopia, relative to the Frontiers
+between the Soudan, Ethiopia, and Eritrea. Signed at Adis
+Ababa, May</hi> 15, 1902. *</ab>
+<ab type="footnote">* Signed also ia the Amharic text.</ab>
+<ab>[Ratifications delivered at Adis Ababa, October 28, 1902.]</ab>
+<p>His Majesty Edward VII, by the Grace of God, King of the
+United Kingdom of Great Britain and Ireland, and of the British
+Dominions beyond the Seas, Emperor of India, and His Majesty
+Menelek II, by the Grace of God, King of Kings of Ethiopia,
+being animated with the desire to confirm the friendly relations
+between the two Powers, and to settle the frontier between the
+Soudan and Ethiopia, and His Majesty King Edward, having
+appointed as his Plenipotentiary Lieutenant-Colonel John Lane
+Harrington, a Commander of the Koyal Victorian Order, His
+Majesty's Agent at the Court of His Majesty Menelek II, King of
+Kings of Ethiopia, whose full powers have been found in due and
+proper form, and His Majesty the Emperor Menelek, negotiating
+in his own name as King of Kings of Ethiopia, they have agreed
+upon and do conclude the following Articles, which shall be
+binding on themselves, their heirs, and successors:—</p>
+</div2>
+<div2 type="article">
+<p>Art. I. Tlu frontier between the Soudan and Ethiopia agreed
+on between the two Governments shall be: the liue which is
+marked in red on the map annexed to this Treaty in duplicate,
+and traced from Khor Um Hagar to Gallabat, to the Blue Nile,
+Baro, Pibor, and Akobo Rivers to Melile, thence to the intersection
+of the 6th degree of north latitude with the 35th degree longitude
+east of Greenwich.</p>
+</div2>
+<div2 type="article">
+<p>II.  The boundary, as defined in Article I, shall be delimited
+and marked on the ground by a Joint Boundary Commission,
+which shall be nominated by the two High Contracting Parties,
+who shall notify the same to their subjects after delimitation.</p>
+</div2>
+<div2 type="article">
+<p>III.  His Majesty the Emperor Menelek II, King of Kings
+of Ethiopia, engages himself towards the Government of His
+Britannic Majesty not to construct, or allow to be constructed,
+<fw>VOL.  XXIII.                                                                                     B</fw>
+
+<pb facs="ardhi.treaty.00004.002"/>
+<fw>2   ABYSSINIA</fw>
+any work across the Blue Nile, Lake Tsana, or the Sobat which
+would arrest the flow of their waters into the Nile except in
+agreement with His Britannic Majesty's Government and the
+Government of the Soudan.</p>
+</div2>
+<div2 type="article">
+<p>IV.  His Majesty the Emperor Menelek, King of Kings of
+Ethiopia, engages himself to allow His Britannic Majesty's
+Government and the Government of the Soudan to select in the
+neighbourhood of Itang, on the Baro River, a block of territory
+having a river frontage of not more than 2,000 metres, in area not
+exceeding 400 hectares, which shall be leased to the Government
+of the Soudan, to be administered and occupied as a commercial
+station, so long as the Soudan is under the Anglo-Egyptian Government. 
+It is agreed between the two High Contracting Parties
+that the territory so leased shall not be used for any political or
+military purpose.</p>
+</div2>
+<div2 type="article">
+<p>V.  His Majesty the Emperor Menelek, King of Kings of
+Ethiopia, grants His Britannic Majesty's Government and the
+Government of the Soudan the right to construct a railway through
+Abyssinian territory to connect the Soudan with Uganda.</p>
+<p>A route for the railway will be selected by mutual agreement
+between the two High Contracting Parties.</p>
+<p>The present Treaty shall come into force as soon as its ratification 
+by His Britannic Majesty shall have been notified to the
+Emperor of Ethiopia.</p>
+<p>In faith of which His Majesty Menelek II, King of Kings
+of Ethiopia, in his own name, and Lieutenant-Colonel John
+Lane Harrington, on behalf of His Majesty King Edward VII,
+King of the United Kingdom of Great Britain and Ireland and of
+the British Dominions beyond the Seas, Emperor of India, have
+signed the present Treaty, in duplicate, written in the English and
+Amharic languages, identically, both texts being official, and have
+thereto affixed their seals.</p>
+<p>Done at Adis Ababa, the 15th day of May, 1902.</p>
+<signed>(L.S.)   John Lane Harrington, <hi rend="italic">Lieutenant-Colonel</hi>.</signed>
+<signed>(Seal of His Majesty the Emperor Menelek II.)</signed>
+</div2>
+<div2>
+<head type="sub">Note.*</head>
+<ab type="footnote">* Signed also in Italian.</ab>
+<ab>A<hi rend="smallcaps">NNEX</hi> <hi rend="italic">to the Treaty of July 10, 1900, regarding the frontier
+between Ethiopia and Eritrea, and the Treaty of May 15, 1902,
+regarding the frontier between the Soudan and Ethiopia.</hi></ab>
+<p>His Majesty the Emperor of Ethiopia, Menelek II, Major
+Ciccodicola, Italian Minister in Ethiopia, and Lieutenant-Colonel
+
+<pb facs="ardhi.treaty.00004.003"/>
+<fw>ABYSSINIA.                                      3</fw>
+Harrington,  His  Britannic  Majesty's   Agent  in  Ethiopia,  have
+mutually agreed that:</p>
+</div2>
+<div2 type="article">
+<p>A<hi rend="smallcaps">RT</hi>. I. The frontier Treaty between Ethiopia and Eritrea,
+previously determined by the line Tomat-Todluc, is mutually
+modified in the following manner:—</p>
+<p>Commencig from the junction of the Khor Um Hagar with
+the Setit, the new frontier follows this river to its junction with
+the Maieteb, following the latter's course so as to leave Mount Ala
+Tacura to Eritrea, and joins the Mareb at its junction with the
+Mai Ambessa.</p>
+<p>The line from the junction of the Setit and Maieteb to the
+junction of the Mareb and Mai Ambessa shall be delimited by
+Italian and Ethiopian delegates, so that the Canama tribe belong
+to Eritrea.</p>
+</div2>
+<div2 type="article">
+<p>II. The frontier between the Soudan and Eritrea, instead of
+that delimited by the English and Italian delegates by the
+Convention of 16th April, 1901, shall be the line which, from
+Sabderat, is traced <hi rend="italic">viâ</hi> Abu Jamal to the junction of the Khor Um
+Hagar with the Setit.</p>
+<p>The present Agreement shall come into force as soon as its
+ratification by the British and Italian Governments shall have been
+notified to the Emperor of Ethiopia.</p>
+<p>In faith of which His Majesty the Emperor of Ethiopia,
+Menelek II, in his own name and that of his successors; Major
+Ciccodicola, in the name of His Majesty Victor Emmanuel III,
+King of Italy, and his successors; and Lieutenant-Colonel Harrington, 
+in the name of His Majesty Edward VII, King of the United
+Kingdom of Great Britain and Ireland and of the British
+Dominions beyond the Seas, Emperor of India, and his successors,
+have signed the present Note in triplicate, written in the Italian,
+English, and Amharic languages identically, all texts being official,
+and have thereto affixed their seals.</p>
+</div2>
+<div2 type="signatures">
+<dateline>Done at Adis Ababa, this 15th day of May, 1902.</dateline>
+<signed>(L.S.)   John Lane Harrington, <hi rend="italic">Lieutenant-Colonel</hi>.</signed>
+<signed>(L.S.)   Maggiore Federico Ciccodicola.</signed>
+<signed>(Seal of His Majesty the Emperor Menelek II.)</signed>
+<fw>B  2</fw>
+</div2>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
