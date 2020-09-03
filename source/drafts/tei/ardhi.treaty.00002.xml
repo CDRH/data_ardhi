@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">ardhi.treaty.00002</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -71,7 +71,7 @@
 <term key="https://viaf.org/viaf/49264990/">George III, King of Great Britain, 1738-1820</term>
 </keywords>
 <keywords scheme="geonames" n="places">
-<term key="http://www.geonames.org/2403846">Republic of Sierra Leone</term>
+<term key="http://www.geonames.org/2403846">Sierra Leone</term>
 <term key="https://www.geonames.org/2413451">Gambia</term>
 </keywords>
 <keywords scheme="original" n="ethnic_group">

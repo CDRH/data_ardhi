@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">ardhi.treaty.00004</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -70,31 +70,28 @@
 <term></term>
 </keywords>
 <keywords scheme="geonames" n="places">
-<term>Great Britain</term>
-<term>Ethiopia</term>
-<term>Italy</term>
-<term>Sudan</term>
-<term>Eritrea</term>
-<term>Adis Ababa</term>
+<term key="https://www.geonames.org/337996">Ethiopia</term>
+<term key="https://www.geonames.org/366755">Sudan</term>
+<term key="https://www.geonames.org/338010">Eritrea</term>
+<term key="https://www.geonames.org/344979">Adis Ababa, Ethiopia</term>
 <term>Khor Um Hagar</term>
-<term>Gallabat</term>
-<term>Blue Nile</term>
-<term>Baro</term>
-<term>Pibor</term>
-<term>Akobo Rivers</term>
-<term>Melile</term>
-<term>Greenwich</term>
-<term>Lake Tsana</term>
-<term>Sobat</term>
-<term>Itang</term>
-<term>Uganda</term>
-<term>Setit</term>
+<term key="https://www.geonames.org/368470">Gallabat, Sudan</term>
+<term key="https://www.geonames.org/408654">Blue Nile, Sudan</term>
+<term key="https://www.geonames.org/377618">Baro</term>
+<term key="https://www.geonames.org/368553">Pibor</term>
+<term key="https://www.geonames.org/379791">River Akobo</term>
+<term key="https://www.geonames.org/2227251">Mélilé</term>
+<term key="https://www.geonames.org/327932">Lake Tana</term>
+<term key="https://www.geonames.org/366760">River Sobat</term>
+<term key="https://www.geonames.org/334050">Itang, Ethiopia</term>
+<term key="https://www.geonames.org/226074">Uganda</term>
+<term key="https://www.geonames.org/337233">Āwraja Gash-Setīt, Eritrea</term>
 <term>Maieteb</term>
 <term>Mount Ala Tacura</term>
-<term>Mareb</term>
-<term>Mai Ambessa</term>
-<term>Sabderat</term>
-<term>Abu Jamal</term>
+<term key="https://www.geonames.org/330941">Mareb Wenz</term>
+<term key="https://www.geonames.org/344061">Mai Ambessa</term>
+<term key="https://www.geonames.org/329126">Sabderat, Eritrea</term>
+<term key="https://www.geonames.org/380920">Abu Jamal, Sudan</term>
 </keywords>
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -124,7 +121,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-08" who="#phh"></change>
+<change when="2020-08" who="#phh">encoding</change>
 </revisionDesc>
 </teiHeader>
 

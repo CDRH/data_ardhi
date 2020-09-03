@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">ardhi.treaty.00003</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -70,7 +70,7 @@
 <term></term>
 </keywords>
 <keywords scheme="geonames" n="places">
-<term></term>
+<term key="http://www.geonames.org/2332459">Lagos, Nigeria</term>
 </keywords>
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -115,7 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-08" who="#phh"></change>
+<change when="2020-08" who="#phh">encoding</change>
 </revisionDesc>
 </teiHeader>
 
@@ -127,6 +127,7 @@
 
 <pb facs="ardhi.treaty.00003.001"/>
 <div2>
+<head><hi rend="italic">Lagos</hi></head>
 <head>COMMERCE</head>
 <dateline><hi rend="italic">Exchange of letter and compact on board U.S.S. Constitution off Lagos,
 July 31, 1854</hi></dateline>
