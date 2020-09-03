@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00005">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00005</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Sierra Leone Treaty of 1807 (July 10)</title>
+<title level="m">The African-British Long Eighteenth Century</title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="2009">2009</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term key="https://viaf.org/viaf/49264990/">George III, King of Great Britain, 1738-1820</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="http://www.geonames.org/2403846">Sierra Leone</term>
+<term key="https://www.geonames.org/maps/wikipedia_8.5715_-13.0397.html">Bunce Island</term>
+<term>Robiss</term>
+<term key="https://www.geonames.org/2295671/salt-town.html">Salt Town</term>
+<term>Ro-Cupra</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000001">
+<persName>Firama</persName>
+</person>
+<person role="signatory" xml:id="per.0000002">
+<persName>Tom</persName>
+</person>
+<person role="signatory" xml:id="per.0000003">
+<persName>George III, King of England</persName>
+</person>
+<person role="signatory" xml:id="per.0000004">
+<persName>Domingo</persName>
+</person>
+<person role="signatory" xml:id="per.0000005">
+<persName>Smith, A.</persName>
+</person>
+<person role="signatory" xml:id="per.0000006">
+<persName>McCauley, Alexr</persName>
+</person>
+<person role="signatory" xml:id="per.0000007">
+<persName>Firama, Banna</persName>
+</person>
+<person role="signatory" xml:id="per.0000008">
+<persName>McCauley, William</persName>
+</person>
+<person role="signatory" xml:id="per.0000009">
+<persName>Thorpe, John</persName>
+</person>
+<person role="signatory" xml:id="per.0000010">
+<persName>Wilson, John McCauley</persName>
+</person>
+<person role="signatory" xml:id="per.0000011">
+<persName>Edmund, David, Jr.</persName>
+</person>
+<person role="signatory" xml:id="per.0000012">
+<persName>Caulker, George S.</persName>
+</person>
+<person role="signatory" xml:id="per.0000013">
+<persName>Shaw, Charles</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-09" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="ardhi.treaty.00005.001"/>
+<div2>
+<head>SIERRA LEONE TREATY OF 1807 (JULY 10)</head>
+<head type="sub"><hi rend="italic">Treaty of capitulation between the Governor of
+Sierra Leone and King Firama and King Tom</hi></head>
+<ab><hi rend="italic">(Courtesy of British National Archives, Kew Gardens, England)</hi></ab>
+<p>Treaty of peace and alliance between the Governor of the Colony of Sierra
+Leone, for the Sierra Leone Company, on the one part, and King Firama and
+King Tom, with their Princes and Headmen, on the other part.</p>
+</div2>
+<fw><hi rend="italic">Appendix of Treaties</hi>                                             169</fw>
+<pb/>
+<div2 type="article">
+<p>1.   It is agreed that there shall henceforth be peace and friendship between the
+British Colony of Sierra Leone and King Firama and King Tom, and all the
+Princes, Headmen, and people subject.</p>
+</div2>
+<div2 type="article">
+<p>2.  KingFirama and King Tom, with the consent of all the Headmenat this time
+assembled, do hereby surrender to His Majesty the King of Great Britain,
+for the use and benefit of the Sierra Leone Company, all the right, power,
+and possession of every sort and kind in the peninsula of Sierra Leone and
+its dependencies which they or either of them formerly had to the westward
+of the Colony of Sierra Leone or any part thereof.</p>
+</div2>
+<div2 type="article">
+<p>3.   It is, nevertheless, agreed that the claim of the proprietors of Bance Island to
+the possession of Cape Sierra Leone and the adjacent land, shall not be al-
+tered or affected by this Treaty; neither shall the claims of any other person
+or persons lo the same or any part thereof be affected or altered by it; but all
+such claims shall remain the same as if this Treaty never had been made.</p>
+</div2>
+<div2 type="article">
+<p>4.   No native (own shall be built nearer lo (he Colony than Robiss, except
+Robin, Salt Town, and Ro-Cupra; the land between Robin and Ro-Cupra
+shall Ik left to the people of those places for their luggars; and in consid-
+eration of the permission thus given to rebuild Ro-Cupra, Ihe Governor of
+Sierra Leone shall have the right to make what use he thinks proper of Sig.
+Domingo's point and Ihe laud adjacent thereto, he engaging lo make a rea-
+sonable compensation to Sig. Domingo for Ihe same.</p>
+</div2>
+<div2 type="article">
+<p>5.  The customary payment of one hundred bars to King Firama, as agreed
+upon between him and the Governor of Sierra Leone on the 7 March 1794,
+shall continue to be paid to him.</p>
+</div2>
+<div2 type="article">
+<p>6.  The Governor of Sierra Leone engages that the usual customs for watering
+in St. George's Bay shall be collected regularly and paid to King Firama
+and his successors, or lo such person as he or they may appoint to receive
+the same.</p>
+</div2>
+<div2 type="article">
+<p>7.  And lo prevent disputes il is hereby acknowledged Ihal Ihe duiics payable
+for water are fifteen bars (each bar being of Ihe full value of three shillings
+and four pence sterling, if paid in goods or specie) for every trading vessel
+lhal lakes water, whether il lakes litllc or much excepl crafts belonging lo
+traders residing on the Coast of Africa, and vessels of any description be-
+longing to Ihe Siena Leone Company, or lo Ihe colonists of Sierra Leone,
+or (o (he proprietor of Bance Island. And further, lhal no vessel ought lo pay
+for water more than once in one voyage, unless thai voyage continue more
+than a (welvemonlh.</p>
+</div2>
+<div2 type="article">
+<p>8.  If any dispute shall arise concerning the boundary between the Colony and
+Robiss and Ro-Cupra, the Governor of Sierra Leone and the Headmen of
+Robiss and Ro-Cupra shall meet and settle it in a friendly way.</p>
+</div2>
+<div2>
+<p>Done at Robiss this tenth day of July, in the forty-seventh year of the reign
+of our sovereign Lord George the Third, of the United Kingdom of Great
+
+<pb facs="ardhi.treaty.00005.002"/>
+<fw>170                                        <hi rend="italic">Appendix of Treaties</hi></fw>
+Britain and Ireland King, and in the year of our Lord one thousand eight
+hundred and seven.</p>
+</div2>
+<div2 type="signatures">
+<signed>A. Smith</signed>
+<signed>Alexr McCaulay</signed>
+<signed>King Firama
+(X mark)</signed>
+<signed>King Tom
+(X mark)</signed>
+<signed>King Banna Firama
+(X mark)</signed>
+<signed>London
+In presence of—
+William McCaulay
+John Thorpe
+John McCaulay Wilson
+David Edmund, junr
+George S. Caulker
+Charles Shaw</signed>
+</div2>
+
+
+
+<pb facs="ardhi.treaty.00005.003"/>
+
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
