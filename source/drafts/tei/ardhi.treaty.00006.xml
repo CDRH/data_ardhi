@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh"></name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00006</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">The African-British Long Eighteenth Century</title>
+<title level="m">Sierra Leone Treaty of 1819</title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="2009">2009</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term>Mar Porto</term>
+<term>Ro Bompe</term>
+<term key="https://www.geonames.org/2403846">Sierra Leone</term>
+<term>Bunch River</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000045">
+<persName>MacCarthy, Charles</persName>
+</person>
+<person role="signatory" xml:id="per.0000046">
+<persName>Konko</persName>
+</person>
+<person role="signatory" xml:id="per.0000033">
+<persName>Firama</persName>
+</person>
+<person role="signatory" xml:id="per.0000047">
+<persName>Naingbanna</persName>
+</person>
+<person role="signatory" xml:id="per.0000048">
+<persName>Bandio, Moimadoo</persName>
+</person>
+<person role="signatory" xml:id="per.0000049">
+<persName>Kattena</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-09" who="#phh"></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="ardhi.treaty.00006.001"/>
+<div2>
+<head>SIERRA LEONE TREATY OF 1819</head>
+<ab><hi rend="italic">Agreement for Mar Porto &amp; Ro Bompe-renamed called Waterloo &amp;
+Hastings, Sierra Leone</hi></ab>
+<ab>Convention between His Excellency Lieut. Colonel Charles MacCarthy, Captain 
+General and Governor Chief in and over the Colony of Sierra Leone and
+its Dependencies Vice Admiral of the same &amp;c. &amp;c. and Commander in Chief
+of His Majesty's Forces on the West Coast of Africa on the part of His Majesty
+the King of Great Britain and Ireland, and Pa Loudon commonly known by the
+name and style of Ka Conko, and his Chieftains, Headmen &amp;c. &amp;c. &amp;c.</ab>
+<p>His Excellency the Captain General and Governor in Chief being anxious
+to maintain the happy union and harmony which have for several years past
+<pb/>
+<fw><hi rend="italic">Appendix of Treaties</hi>                                             171</fw>
+subsisted between the Colony of Sierra Leone and the Timmanies, wishing to
+strengthen and renew the former Treaties made by his Predecessors with the
+King and Chieftains, to prevent all misunderstanding which might arise from
+misconception as to the proper limits and boundaries of the Colony, the rights
+and titles of British subjects under the Authority of the Governor and Council
+hereafter to former Establishments on such parts of the left bank of the Bunch
+River as are at present unoccupied by British Subjects, and Pa Loudon commonly 
+called Ka Conko and his Chieftains, Headmen and Gentlemen, being
+animated with the same sentiment, have for the benefit of all parties concerned
+agreed as follows</p>
+<p>The said Pa Loudon Commonly called Ka Conko his Chieftains, Headmen
+and Gentlemen have for themselves and their Successors, ceded, transferred,
+and given to his said Excellency Governor McCarthy as Governor for the time
+being, for the use and on the behalf of His Majesty, the King of the United
+Kingdom of Great Britain and Ireland and his successors, the full, entire,
+free, and unlimited possession and Sovereignly of the Territory and lands
+commonly known under the name Mar Porto and Ro Bompe situated on the
+Banks of the Bunch River and extends from, to, with all right and title to the
+Navigation of the same River; water on the Riverlet situated on the left side
+of the aforesaid.</p>
+<p>The extent and limits of the aforementioned Lands of Mar Porto and Ro Bumpe
+shall be duly established in the presence and with the consent of Pa Loudon
+commonly called Ka Conko or a Person or Persons duly authorized by him to
+that affect and no alterations in said limits shall hereafter under any pretence
+or plea be permitted under the authority or Sanction of His said Excellency the
+Governor or his Successor without ihe concurrences of the said Pa Loudon or
+his Successor, it being fully understood that within the extent of those limits
+only British subjects shall have right to occupy lands in the district.</p>
+<p>In consideration of which transfer of Land, His said Excellency the Captain
+General and Governor in Chief for himself and Successors as the Governor of
+Sierra Leone for the time being, on the part and on the behalf of His Britannic
+Majesty engages, promises and agrees to pay yearly and every year to the said
+Pa Loudon commonly called Ka Conko, or to such person as may succeed him
+or be appointed or authorized to receive the same, the Sum of Fifty Bars in
+lieu of all other claims or demands of whatever nature or description/the yearly
+Rent of a hundred Bars to Kin Farima excepted which shall continue as here-
+to-for/And His Excellency solemnly promises for himself and his successors
+for the time being on the part of His Britannic Majesty, not to disturb or molest
+any of the native Inhabitants who may now occupy any Town, House or Fait,
+whither the extent of the limits of the place aforementioned.</p>
+
+<pb facs="ardhi.treaty.00006.002"/>
+<fw>172                                             <hi rend="italic">Appendix of Treaties</hi></fw>
+<p>It is further agreed by the contracting parties that the Year Rent of Fifty Bars
+shall become due and payable on the fourth day of June in each year, the same
+to commence from the fourth of June next and payable on the same day of the
+year One-Thousand Eight hundred and Twenty, and to consist of the following
+articles which are to be taken at rate here agreed upon, and not liable to any
+alteration.</p>
+<p>Lastly in fault of due on regular payment of the yearly Rent above agreed upon,
+the present Treaty shall be considered as null and void.</p>
+</div2>
+<div2 type="signatures">
+<p>In Witness whereof the said Contracting parties at Freetown in the Colony of
+Sierra Leone on the Twenty-Fifth day of May One-thousand eight hundred and
+nineteen, have hereunto set their hand and seals in presence of the subscribing
+Witnesses.</p>
+<signed>Lt C. MacCarthy</signed>
+<signed>"Pa Loudon + Konko"</signed>
+<signed>"Pa Naingbanna"</signed>
+<signed>"Moimadoo Bandio"</signed>
+<signed>"Pa Kattena"</signed>
+</div2>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
