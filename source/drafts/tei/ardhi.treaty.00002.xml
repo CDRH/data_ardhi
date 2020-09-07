@@ -67,8 +67,8 @@
 <term>Treaty</term>
 </keywords>     
 <keywords scheme="viaf" n="people">
-<term key="https://viaf.org/viaf/51639355/">Naimbana, -1793</term>
-<term key="https://viaf.org/viaf/49264990/">George III, King of Great Britain, 1738-1820</term>
+<term key="https://viaf.org/viaf/51639355">Naimbana, -1793</term>
+<term key="https://viaf.org/viaf/49264990">George III, King of Great Britain, 1738-1820</term>
 </keywords>
 <keywords scheme="geonames" n="places">
 <term key="http://www.geonames.org/2403846">Sierra Leone</term>
@@ -81,34 +81,34 @@
 
 <particDesc>
 <listPerson>
-<person role="signatory" xml:id="per.0000001">
+<person role="signatory" xml:id="per.0000009">
 <persName>Naimbanna</persName>
 </person>
-<person role="signatory" xml:id="per.0000002">
+<person role="signatory" xml:id="per.0000010">
 <persName>Taylor, John</persName>
 </person>
-<person role="signatory" xml:id="per.0000003">
+<person role="signatory" xml:id="per.0000011">
 <persName>George III, King of Great Britain, 1738-1820</persName>
 </person>
-<person role="signatory" xml:id="per.0000004">
+<person role="signatory" xml:id="per.0000012">
 <persName>Weaver, Richard</persName>
 </person>
-<person role="signatory" xml:id="per.0000005">
+<person role="signatory" xml:id="per.0000013">
 <persName>Peall, Thomas</persName>
 </person>
-<person role="signatory" xml:id="per.0000006">
+<person role="signatory" xml:id="per.0000014">
 <persName>Ellet, Benjamin</persName>
 </person>
-<person role="signatory" xml:id="per.0000007">
+<person role="signatory" xml:id="per.0000015">
 <persName>Dowder, James</persName>
 </person>
-<person role="signatory" xml:id="per.0000008">
-<persName>Bongee, Pa</persName>
+<person role="signatory" xml:id="per.0000016">
+<persName>Bongee</persName>
 </person>
-<person role="signatory" xml:id="per.0000009">
+<person role="signatory" xml:id="per.0000017">
 <persName>Robbin, Bick</persName>
 </person>
-<person role="signatory" xml:id="per.0000010">
+<person role="signatory" xml:id="per.0000018">
 <persName>Griffin, Abram Elliot</persName>
 </person>
 </listPerson>

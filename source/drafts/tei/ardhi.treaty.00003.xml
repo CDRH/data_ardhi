@@ -67,7 +67,8 @@
 <term>Treaty</term>
 </keywords>     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term key="http://viaf.org/viaf/23947754">Mayo, Isaac</term>
+<term key="http://viaf.org/viaf/41711801">RODGERS, C.R.P.</term>
 </keywords>
 <keywords scheme="geonames" n="places">
 <term key="http://www.geonames.org/2332459">Lagos, Nigeria</term>
@@ -79,34 +80,34 @@
 
 <particDesc>
 <listPerson>
-<person role="signatory" xml:id="per.0000001">
+<person role="signatory" xml:id="per.0000019">
 <persName>Mayo, Isaac</persName>
 </person>
-<person role="signatory" xml:id="per.0000002">
+<person role="signatory" xml:id="per.0000004">
 <persName>Docemo</persName>
 </person>
-<person role="signatory" xml:id="per.0000003">
+<person role="signatory" xml:id="per.0000020">
 <persName>Rudd, Jno.</persName>
 </person>
-<person role="signatory" xml:id="per.0000004">
+<person role="signatory" xml:id="per.0000021">
 <persName>Rodgers, C.R.P.</persName>
 </person>
-<person role="signatory" xml:id="per.0000005">
+<person role="signatory" xml:id="per.0000022">
 <persName>Oloomobong</persName>
 </person>
-<person role="signatory" xml:id="per.0000006">
+<person role="signatory" xml:id="per.0000023">
 <persName>Talabee</persName>
 </person>
-<person role="signatory" xml:id="per.0000007">
+<person role="signatory" xml:id="per.0000024">
 <persName>Oloocohe</persName>
 </person>
-<person role="signatory" xml:id="per.0000008">
+<person role="signatory" xml:id="per.0000025">
 <persName>Achabong</persName>
 </person>
-<person role="signatory" xml:id="per.0000009">
+<person role="signatory" xml:id="per.0000026">
 <persName>Oberchor</persName>
 </person>
-<person role="signatory" xml:id="per.0000010">
+<person role="signatory" xml:id="per.0000027">
 <persName>Serber</persName>
 </person>
 </listPerson>
@@ -161,9 +162,9 @@ upon the same footing with the Citizens of the most favored Nation.</p>
 <ab>COMMERCE—JULY 31, 1854</ab>
 <p>Commodore Mayo requests the King to receive the assurance of his high
 respect and consideration.</p>
-<dateline>U.S. Flag Ship Constitution.
+<dateline>U.S. F<hi rend="smallcaps">LAG</hi> S<hi rend="smallcaps">HIP</hi> C<hi rend="smallcaps">ONSTITUTION</hi>.
 <hi rend="superscript">Off Lagos, 31<hi rend="superscript">st</hi> July 1854.</hi>
-To His Majesty the King of Lagos.</dateline>
+To His Majesty the K<hi rend="smallcaps">ING</hi> of Lagos.</dateline>
 </div2>
 <div2>
 <ab><hi rend="superscript">Compact by King and Chiefs of Lagos</hi></ab>
@@ -177,11 +178,11 @@ have already, or, may hereafter, form a treaty, or conclude an agreement.</p>
 </div2>
 <div2 type="signatures">
 <ab>Witnesses.</ab>
-<ab>Jno. Rudd.
+<ab>J<hi rend="smallcaps">NO</hi>. R<hi rend="smallcaps">UDD</hi>.
 <hi rend="italic">Commander US Navy.</hi></ab>
-<ab>C.R.P. Rodgers
+<ab>C.R.P. R<hi rend="smallcaps">ODGERS</hi>
 <hi rend="italic">Flag Lieut Af.Sq<hi rend="superscript">n</hi></hi></ab>
-<ab>Flag Ship Constitution
+<ab>F<hi rend="smallcaps">LAG</hi> S<hi rend="smallcaps">HIP</hi> C<hi rend="smallcaps">ONSTITUTION</hi>
 <hi rend="superscript">Off Lagos 31st July 1854.</hi></ab>
 <signed>K<hi rend="smallcaps">ING</hi> X	D<hi rend="smallcaps">OCEMO</hi></signed>
 <signed>O<hi rend="smallcaps">LOOMOBONG</hi>	X</signed>

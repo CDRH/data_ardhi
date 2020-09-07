@@ -67,7 +67,9 @@
 <term>Treaty</term>
 </keywords>     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term key="http://viaf.org/viaf/265340794">Edward VII, King of Great Britain</term>
+<term key="http://viaf.org/viaf/307363576">Ciccodicola, Federico</term>
+<term key="http://viaf.org/viaf/13103888">Emmanuel III, Victor</term>
 </keywords>
 <keywords scheme="geonames" n="places">
 <term key="https://www.geonames.org/337996">Ethiopia</term>
@@ -100,19 +102,19 @@
 
 <particDesc>
 <listPerson>
-<person role="signatory" xml:id="per.0000001">
+<person role="signatory" xml:id="per.0000028">
 <persName>Edward VII, King of Great Britain</persName>
 </person>
-<person role="signatory" xml:id="per.0000002">
+<person role="signatory" xml:id="per.0000029">
 <persName>Harrington, John Lane</persName>
 </person>
-<person role="signatory" xml:id="per.0000003">
+<person role="signatory" xml:id="per.0000030">
 <persName>Menelek II</persName>
 </person>
-<person role="signatory" xml:id="per.0000004">
+<person role="signatory" xml:id="per.0000031">
 <persName>Ciccodicola, Federico</persName>
 </person>
-<person role="signatory" xml:id="per.0000005">
+<person role="signatory" xml:id="per.0000032">
 <persName>Emmanuel III, Victor</persName>
 </person>
 </listPerson>
