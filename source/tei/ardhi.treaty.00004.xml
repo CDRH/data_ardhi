@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Abyssinia</title>
 <principal n="Muchiri, Nganga">Nganga Muchiri</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
 <title level="m"></title>
 <publisher></publisher>
 <biblScope></biblScope>
-<date when="1000"></date>
+<date></date>
 </bibl>
 </sourceDesc>
 
