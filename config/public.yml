@@ -7,7 +7,7 @@
 
 default:
   # please fill in the name of your collection here
-  # collection:
+  collection: ardhi
 
   data_base: https://cdrhmedia.unl.edu  # (do not include /data/ in path)
   media_base: https://cdrhmedia.unl.edu
@@ -26,8 +26,10 @@ development:
   es_index: edit_public_config
   es_path: https://edit_public_config/elastic
   data_base: https://override_public
+  site_url: https://cdrhdev1.unl.edu/ardhi
 
 # production:
   # limit processed files by adding allowed ids on newlines in a file
   # allowed_files: config/allowed.txt
+  # site_url: TODO
 
