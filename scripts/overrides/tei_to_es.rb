@@ -15,10 +15,10 @@ class TeiToEs
     })
   end
 
-  def title
+  #def title
     # TODO this is temporary until there are actually <title> elements
-    @id
-  end
+    #@id
+  #end
 
   def spatial
     all_places = get_list(@xpaths["spatial"])
