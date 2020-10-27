@@ -2,7 +2,9 @@ class TeiToEs
 
   def override_xpaths
     {
-      "spatial" => "//keywords[@n='places']/term"
+      "spatial" => "//keywords[@n='places']/term",
+      "date" => "//keywords[@n='treatydate']/term[1]",
+      "date_display" => "//keywords[@n='treatydate']/term[1]"
     }
   end
 
