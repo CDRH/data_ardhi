@@ -11,6 +11,8 @@ default:
 
   data_base: https://cdrhmedia.unl.edu  # (do not include /data/ in path)
   media_base: https://cdrhmedia.unl.edu
+  
+  tei_html_xsl: scripts/overrides/tei_to_html.xsl
 
   # refer to the documentation for details about overriding the XSL
   # html_html_xsl:
