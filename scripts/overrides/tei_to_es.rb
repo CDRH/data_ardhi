@@ -4,7 +4,10 @@ class TeiToEs
     {
       "spatial" => "//keywords[@n='places']/term",
       "date" => "//keywords[@n='treatydate']/term[1]",
-      "date_display" => "//keywords[@n='treatydate']/term[1]"
+      "date_display" => "//keywords[@n='treatydate']/term[1]",
+      "subjects" => "//keywords[@n='ethnic_group']/term[1]",
+      "keywords" => "//keywords[@n='ships']/term[1]",
+      "creator" => "//particDesc/listPerson/person[@role='signatory']/persName"
     }
   end
 
