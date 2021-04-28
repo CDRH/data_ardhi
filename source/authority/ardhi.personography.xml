@@ -196,7 +196,6 @@ NOTES:
 <birth when="yyyy-mm-dd" source=""><placeName></placeName></birth>
 <death when="yyyy-mm-dd" source=""><placeName></placeName></death>
 <residence source="" from="yyyy-mm" to="yyyy-mm"><placeName></placeName></residence>
-<socecStatus source="" from="yyyy-mm" to="yyyy-mm">enslaved</socecStatus>
 <occupation source="" from="yyyy-mm" to="yyyy-mm"></occupation>
 <trait type="race" source=""><ab></ab></trait>
 <sex source=""></sex>
