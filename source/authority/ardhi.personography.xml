@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.personography">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">ARDHI Personography</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+</respStmt>
+<!--<sponsor>National Endowment for the Humanities</sponsor>-->
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<publicationStmt>
+<authority>"An Africana Digital Humanities Project"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.personography</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<p></p>
+</sourceDesc>
+
+</fileDesc>
+
+<revisionDesc>
+<change when="2020">Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+<text>
+
+<body>
+
+<div1 type="list">
+
+<listPerson>
+
+<person xml:id="per.000000">
+<persName type="display">Unknown Individual</persName>
+</person>
+
+
+<!-- SOURCES
+
+Black Past = blackpast.org -->
+
+<!--
+
+HERE ARE ALL THE ELEMENTS YOU MAY WANT TO USE TO DESCRIBE A PERSON. NOT ALL OF THEM HAVE TO BE USED; DELETE THE ONES YOU DO NOT WANT. 
+
+NOTES:
+ - change full="yes" to full="init" if a person only has initials in their name.
+ - keep source short. we may want to create abbreviations for often cited sources. let me know.
+
+<person xml:id="per.0000001">
+<persName type="display"></persName>
+<persName type="full"><surname></surname>, <forename type="first" full="yes"></forename> <forename type="middle" full="init"></forename> <addName type="honorific"></addName></persName>
+<birth when="yyyy-mm-dd" source=""><placeName></placeName></birth>
+<death when="yyyy-mm-dd" source=""><placeName></placeName></death>
+<residence source="" from="yyyy-mm" to="yyyy-mm"><placeName></placeName></residence>
+<socecStatus source="" from="yyyy-mm" to="yyyy-mm">enslaved</socecStatus>
+<occupation source="" from="yyyy-mm" to="yyyy-mm"></occupation>
+<trait type="race" source=""><ab></ab></trait>
+<sex source=""></sex>
+<nationality source="" notAfter="" notBefore=""></nationality>
+<faith source=""></faith>
+<affiliation source="" from="yyyy-mm" to="yyyy-mm"></affiliation>
+<idno type="viaf"></idno>
+<note></note>
+</person>
+
+
+-->
+
+<person xml:id="per.0000001">
+<persName type="display">Victoria, Queen of Gret Britain</persName>
+<birth when="1819-05-24" source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom"><placeName></placeName></birth>
+<death when="1901-01-22" source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom"><placeName></placeName></death>
+<occupation source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom" from="1837" to="1901">Queen of Great Britain and Ireland</occupation>
+<occupation source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom" from="1876" to="1901">Empress of India</occupation>
+<trait type="race" source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom"><ab>White</ab></trait>
+<sex source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom">Female</sex>
+<nationality source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom">Great Britain</nationality>
+<idno type="viaf">http://viaf.org/viaf/95738652/#Victoria,_Queen_of_Great_Britain,_1819-1901</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000002">
+<persName type="display">Norman B. Bedingfield</persName>
+<persName type="full"><surname>Bedingfield</surname>, <forename type="first" full="yes">Norman</forename> <forename type="middle" full="yes">Bernard</forename> <addName type="honorific">R.N.</addName></persName>
+<birth when="1824-01-14" source="https://www.pdavis.nl/ShowBiog.php?id=974"><placeName>Catsfield, Sussex, England</placeName></birth>
+<death when="1894-02-26" source="https://www.pdavis.nl/ShowBiog.php?id=974"><placeName>Upper Norwood, London</placeName></death>
+<occupation source="https://www.pdavis.nl/ShowBiog.php?id=974" from="1846-11" to="1856">Lieutenant</occupation>
+<occupation source="https://www.pdavis.nl/ShowBiog.php?id=974" from="1856-08" to="1862">Commander</occupation>
+<occupation source="https://www.pdavis.nl/ShowBiog.php?id=974" from="1862-04" to="1877">Captain</occupation>
+<occupation source="https://www.pdavis.nl/ShowBiog.php?id=974" from="1877-03">Retired Captain</occupation>
+<trait type="race" source="https://www.pdavis.nl/ShowBiog.php?id=974"><ab>White</ab></trait>
+<sex source="https://www.pdavis.nl/ShowBiog.php?id=974">Male</sex>
+<nationality source="https://www.pdavis.nl/ShowBiog.php?id=974">Great Britain</nationality>
+<affiliation source="https://www.pdavis.nl/ShowBiog.php?id=974">The British Royal Navy</affiliation>
+<note></note>
+</person>
+
+<person xml:id="per.0000003">
+<persName type="display">William McCoskry</persName>
+<persName type="full"><surname>McCoskry</surname>, <forename type="first" full="yes">William</forename> <addName type="honorific"></addName></persName>
+<occupation source="Peel, J. D. Y. (2003). Religious Encounter and the Making of the Yoruba. Indiana University Press. ISBN 0-253-21588-9." to="1861">Consul</occupation>
+<occupation source="Peel, J. D. Y. (2003). Religious Encounter and the Making of the Yoruba. Indiana University Press. ISBN 0-253-21588-9." from="1861" to="1862">Governor of Lagos</occupation>
+<trait type="race" source="Peel, J. D. Y. (2003). Religious Encounter and the Making of the Yoruba. Indiana University Press. ISBN 0-253-21588-9."><ab>White</ab></trait>
+<sex source="Peel, J. D. Y. (2003). Religious Encounter and the Making of the Yoruba. Indiana University Press. ISBN 0-253-21588-9.">Male</sex>
+<nationality source="Mann, Kristin (2007). Slavery and the birth of an African city. Lagos, 1760-1900. Indiana University Press. ISBN 978-0-253-34884-5.">Great Britain</nationality>
+<affiliation source="Mann, Kristin (2007). Slavery and the birth of an African city. Lagos, 1760-1900. Indiana University Press. ISBN 978-0-253-34884-5.">The British Government</affiliation>
+<note></note>
+</person>
+
+<person xml:id="per.0000004">
+<persName type="display">Docemo</persName>
+<birth when="1823" source="Akyeampong, Emmanuel Kwaku; Gates, Henry Louis (2012). Dictionary of African Biography. 6. OUP USA. ISBN 9780195382075."><placeName>Lagos, Nigeria</placeName></birth>
+<death when="1885" source="Akyeampong, Emmanuel Kwaku; Gates, Henry Louis (2012). Dictionary of African Biography. 6. OUP USA. ISBN 9780195382075."><placeName>Lagos, Nigeria</placeName></death>
+<occupation source="https://www.blackpast.org/global-african-history/places-global-african-history/lagos-nigeria-c-1350/" from="1853" to="1885">Oba of Lagos</occupation>
+<trait type="race" source="https://www.blackpast.org/global-african-history/places-global-african-history/lagos-nigeria-c-1350/"><ab>Black</ab></trait>
+<sex source="https://www.blackpast.org/global-african-history/places-global-african-history/lagos-nigeria-c-1350/">Male</sex>
+<nationality source="https://www.blackpast.org/global-african-history/places-global-african-history/lagos-nigeria-c-1350/">Nigeria</nationality>
+<note>Docemo is the British spelling of Dosunmu</note>
+</person>
+
+<person xml:id="per.0000009">
+<persName type="display">Naimbana</persName>
+<birth when="1710" source="http://www.sierra-leone.org/Heroes/heroes2.html"><placeName>Sierra Leone</placeName></birth>
+<death when="1793" source="http://www.sierra-leone.org/Heroes/heroes2.html"><placeName>Sierra Leone</placeName></death>
+<occupation source="http://www.sierra-leone.org/Heroes/heroes2.html" from="1775" to="1793">Regent of the Koya Kingdom</occupation>
+<trait type="race" source="http://www.sierra-leone.org/Heroes/heroes2.html"><ab>Black</ab></trait>
+<sex source="http://www.sierra-leone.org/Heroes/heroes2.html">Male</sex>
+<nationality source="http://www.sierra-leone.org/Heroes/heroes2.html">Sierra Leone</nationality>
+<idno type="viaf">http://viaf.org/processed/LC%7Cnr2004005757</idno>
+<note>Alternatively spelled Nemgbana</note>
+</person>
+
+<person xml:id="per.0000011">
+<persName type="display">George III, King of Great Britain</persName>
+<birth when="1738-06-04" source="https://www.britannica.com/biography/George-III">London<placeName></placeName></birth>
+<death when="1820-01-29" source="https://www.britannica.com/biography/George-III">Windsor Castle, near London<placeName></placeName></death>
+<occupation source="https://www.britannica.com/biography/George-III" from="1760" to="1820">King of Great Britain and Ireland</occupation>
+<trait type="race" source="https://www.britannica.com/biography/George-III"><ab>White</ab></trait>
+<sex source="https://www.britannica.com/biography/George-III">Male</sex>
+<nationality source="https://www.britannica.com/biography/George-III">Great Britain</nationality>
+<idno type="viaf">http://viaf.org/viaf/49264990/#George_III,_King_of_Great_Britain,_1738-1820</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000028">
+<persName type="display">Edward VII, King of Great Britain</persName>
+<birth when="1849-11-09" source="https://www.britannica.com/biography/Edward-VII"><placeName>London</placeName></birth>
+<death when="1910-05-06" source="https://www.britannica.com/biography/Edward-VII"><placeName>London</placeName></death>
+<occupation source="https://www.britannica.com/biography/Edward-VII" from="1901" to="1910">King of the United Kingdom of Great Britain and Ireland and of the British dominions and emperor of India</occupation>
+<trait type="race" source="https://www.britannica.com/biography/Edward-VII"><ab>White</ab></trait>
+<sex source="https://www.britannica.com/biography/Edward-VII">Male</sex>
+<nationality source="https://www.britannica.com/biography/Edward-VII">Great Britain</nationality>
+<idno type="viaf">http://viaf.org/viaf/265340794/#Edward_VII,_King_of_Great_Britain,_1841-1910</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000030">
+<persName type="display">Menelik II</persName>
+<birth when="1844" source="https://www.blackpast.org/global-african-history/emperor-menelik-ii-sahle-miriam-1844-1913/"><placeName>Ankobar, Shewa, Ethiopia</placeName></birth>
+<death when="1913" source="https://www.blackpast.org/global-african-history/emperor-menelik-ii-sahle-miriam-1844-1913/"><placeName>Addis Ababa, Ehtiopia</placeName></death>
+<occupation source="https://www.blackpast.org/global-african-history/emperor-menelik-ii-sahle-miriam-1844-1913/" from="1865">Negus</occupation>
+<occupation source="https://www.blackpast.org/global-african-history/emperor-menelik-ii-sahle-miriam-1844-1913/" from="1889">Emperor</occupation>
+<trait type="race" source="https://www.blackpast.org/global-african-history/emperor-menelik-ii-sahle-miriam-1844-1913/"><ab>Black</ab></trait>
+<sex source="https://www.blackpast.org/global-african-history/emperor-menelik-ii-sahle-miriam-1844-1913/">Male</sex>
+<nationality source="https://www.blackpast.org/global-african-history/emperor-menelik-ii-sahle-miriam-1844-1913/">Ethiopia</nationality>
+<idno type="viaf">http://viaf.org/viaf/62344773/#Menelik_II,_Negus_of_Ethiopia,_1844-1913</idno>
+<note>Alternatively spelled Menelek</note>
+</person>
+
+<person xml:id="per.0000031">
+<persName type="display">Federico Ciccodicola</persName>
+<persName type="full"><surname>Ciccodicola</surname>, <forename type="first" full="yes">Federico</forename></persName>
+<birth when="yyyy-mm-dd" source=""><placeName></placeName></birth>
+<death when="yyyy-mm-dd" source=""><placeName></placeName></death>
+<residence source="" from="yyyy-mm" to="yyyy-mm"><placeName></placeName></residence>
+<socecStatus source="" from="yyyy-mm" to="yyyy-mm">enslaved</socecStatus>
+<occupation source="" from="yyyy-mm" to="yyyy-mm"></occupation>
+<trait type="race" source=""><ab></ab></trait>
+<sex source=""></sex>
+<nationality source="" notAfter="" notBefore=""></nationality>
+<faith source=""></faith>
+<affiliation source="" from="yyyy-mm" to="yyyy-mm"></affiliation>
+<idno type="viaf"></idno>
+<note></note>
+</person>
+
+
+</listPerson>
+
+</div1>
+
+</body>
+</text>
+</TEI>
