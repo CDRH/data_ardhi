@@ -204,6 +204,20 @@ NOTES:
 <note></note>
 </person>
 
+<person xml:id="per.0000019">
+<persName type="display">Isaac Mayo</persName>
+<persName type="full">Mayo<surname></surname>, <forename type="first" full="yes">Isaac</forename></persName>
+<birth when="1794" source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html"><placeName>Anne Arundel</placeName></birth>
+<death when="1861-05-18" source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html"><placeName></placeName></death>
+<socecStatus source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html">Slave owner</socecStatus>
+<occupation source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html" from="yyyy-mm" to="yyyy-mm">Commodore</occupation>
+<trait type="race" source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html"><ab>White</ab></trait>
+<sex source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html">Male</sex>
+<nationality source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html">United States</nationality>
+<affiliation source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html">United States Navy</affiliation>
+<idno type="viaf">http://viaf.org/viaf/23947754/#Isaac_Mayo</idno>
+<note></note>
+</person>
 
 </listPerson>
 
