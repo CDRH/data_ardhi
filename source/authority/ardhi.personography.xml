@@ -11,7 +11,6 @@
 <resp>encoding</resp>
 <name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
 </respStmt>
-<!--<sponsor>National Endowment for the Humanities</sponsor>-->
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
 
@@ -41,7 +40,7 @@
 </fileDesc>
 
 <revisionDesc>
-<change when="2020">Initial encoding</change>
+<change when="2020" who="#phh">Initial encoding</change>
 </revisionDesc>
 </teiHeader>
 <text>
@@ -90,7 +89,7 @@ NOTES:
 -->
 
 <person xml:id="per.0000001">
-<persName type="display">Victoria, Queen of Gret Britain</persName>
+<persName type="display">Victoria, Queen of Great Britain</persName>
 <birth when="1819-05-24" source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom"><placeName></placeName></birth>
 <death when="1901-01-22" source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom"><placeName></placeName></death>
 <occupation source="https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom" from="1837" to="1901">Queen of Great Britain and Ireland</occupation>
@@ -210,7 +209,7 @@ NOTES:
 <birth when="1794" source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html"><placeName>Anne Arundel</placeName></birth>
 <death when="1861-05-18" source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html"><placeName></placeName></death>
 <socecStatus source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html">Slave owner</socecStatus>
-<occupation source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html" from="yyyy-mm" to="yyyy-mm">Commodore</occupation>
+<occupation source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html" >Commodore</occupation>
 <trait type="race" source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html"><ab>White</ab></trait>
 <sex source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html">Male</sex>
 <nationality source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html">United States</nationality>
