@@ -41,6 +41,7 @@
 
 <revisionDesc>
 <change when="2020" who="#phh">Initial encoding</change>
+<change when="2021" who="#phh">Adding entries</change>
 </revisionDesc>
 </teiHeader>
 <text>
@@ -215,6 +216,104 @@ NOTES:
 <nationality source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html">United States</nationality>
 <affiliation source="https://www.baltimoresun.com/maryland/anne-arundel/bs-xpm-2011-05-14-bs-ar-isaac-mayo-20110514-story.html">United States Navy</affiliation>
 <idno type="viaf">http://viaf.org/viaf/23947754/#Isaac_Mayo</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000050">
+<persName type="display">Joao de Andrade Corvo</persName>
+<persName type="full"><surname>Corvo</surname>, <forename type="first" full="yes">Joao</forename> <forename type="middle" full="init">de Andrade</forename> <addName type="honorific"></addName></persName>
+<birth when="1824-01-30" source="https://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Andrade_Corvo"><placeName>Torres Novas</placeName></birth>
+<death when="1890-02-16" source="https://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Andrade_Corvo"><placeName>Lisbon</placeName></death>
+<occupation source="https://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Andrade_Corvo" from="1871-09" to="1878-01">Foreign Minister</occupation>
+<trait type="race" source="https://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Andrade_Corvo"><ab>White</ab></trait>
+<sex source="https://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Andrade_Corvo">Male</sex>
+<nationality source="https://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Andrade_Corvo">Portugal</nationality>
+<affiliation source="https://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Andrade_Corvo">Portuguese Government</affiliation>
+<idno type="viaf">http://viaf.org/viaf/74230588/#Corvo,_Andrade,_1824-1890</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000051">
+<persName type="display">Carlos Roma du Bocage</persName>
+<persName type="full"><surname>du Bocage</surname>, <forename type="first" full="yes">Carlos</forename> <forename type="middle" full="init">Roma</forename> <addName type="honorific"></addName></persName>
+<birth when="1853-09-28" source="https://www.researchgate.net/publication/277195239_Carlos_Roma_du_Bocage"><placeName>Lisbon</placeName></birth>
+<death when="1918-03-19" source="https://www.researchgate.net/publication/277195239_Carlos_Roma_du_Bocage"><placeName>Lisbon</placeName></death>
+<occupation source="https://www.researchgate.net/publication/277195239_Carlos_Roma_du_Bocage">Army Officer</occupation>
+<trait type="race" source="https://www.researchgate.net/publication/277195239_Carlos_Roma_du_Bocage"><ab>White</ab></trait>
+<sex source="https://www.researchgate.net/publication/277195239_Carlos_Roma_du_Bocage">Male</sex>
+<nationality source="https://www.researchgate.net/publication/277195239_Carlos_Roma_du_Bocage">Portugal</nationality>
+<affiliation source="https://www.researchgate.net/publication/277195239_Carlos_Roma_du_Bocage">Portuguese Army</affiliation>
+<idno type="viaf">https://viaf.org/viaf/24021254/</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000052">
+<persName type="display">Girard de Rialle, Julien</persName>
+<persName type="full"><surname>de Rialle</surname>, <forename type="first" full="yes">Julien</forename> <forename type="middle" full="init">Girard</forename> <addName type="honorific"></addName></persName>
+<birth when="1841-09-27" source="https://fr.wikipedia.org/wiki/Julien_Girard_de_Rialle"><placeName>Paris</placeName></birth>
+<death when="1904-11-23" source="https://fr.wikipedia.org/wiki/Julien_Girard_de_Rialle"><placeName>Santiago de Chile</placeName></death>
+<occupation source="https://fr.wikipedia.org/wiki/Julien_Girard_de_Rialle">Diplomat</occupation>
+<trait type="race" source="https://fr.wikipedia.org/wiki/Julien_Girard_de_Rialle"><ab>White</ab></trait>
+<sex source="https://fr.wikipedia.org/wiki/Julien_Girard_de_Rialle">Male</sex>
+<nationality source="https://fr.wikipedia.org/wiki/Julien_Girard_de_Rialle">France</nationality>
+<affiliation source="https://fr.wikipedia.org/wiki/Julien_Girard_de_Rialle">Société d'Anthropologie de Paris</affiliation>
+<idno type="viaf">https://viaf.org/viaf/39741613/</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000054">
+<persName type="display">Jules Grévy</persName>
+<persName type="full"><surname>Grévy</surname>, <forename type="first" full="yes">Jules</forename> <forename type="middle" full="init"></forename> <addName type="honorific"></addName></persName>
+<birth when="1807-08-15" source="https://www.britannica.com/biography/Jules-Grevy"><placeName>Mont-sous-Vaudrey</placeName></birth>
+<death when="1891-09-19" source="https://www.britannica.com/biography/Jules-Grevy"><placeName>Mont-sous-Vaudrey</placeName></death>
+<occupation source="britannica.com/biography/Jules-Grevy" from="1879" to="1887">President</occupation>
+<trait type="race" source="britannica.com/biography/Jules-Grevy"><ab>White</ab></trait>
+<sex source="britannica.com/biography/Jules-Grevy">Male</sex>
+<nationality source="britannica.com/biography/Jules-Grevy">France</nationality>
+<affiliation source="britannica.com/biography/Jules-Grevy">French Government</affiliation>
+<idno type="viaf">http://viaf.org/viaf/71440161/</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000055">
+<persName type="display">Luís I de Portugal Rei de Portugal e Algarves (1861–1889)</persName>
+<persName type="full"><surname></surname>, <forename type="first" full="yes">Louis I</forename> <forename type="middle" full="init"></forename> <addName type="honorific"></addName></persName>
+<birth when="1838-10-31" source="https://www.britannica.com/biography/Louis-king-of-Portugal"><placeName>Lisbon</placeName></birth>
+<death when="1889-10-19" source="https://www.britannica.com/biography/Louis-king-of-Portugal"><placeName>Cascais</placeName></death>
+<occupation source="https://www.britannica.com/biography/Louis-king-of-Portugal" from="1861" to="1889">King</occupation>
+<trait type="race" source="https://www.britannica.com/biography/Louis-king-of-Portugal"><ab>White</ab></trait>
+<sex source="https://www.britannica.com/biography/Louis-king-of-Portugal">Male</sex>
+<nationality source="https://www.britannica.com/biography/Louis-king-of-Portugal">Portugal</nationality>
+<affiliation source="https://www.britannica.com/biography/Louis-king-of-Portugal">Portuguese Monarchy</affiliation>
+<idno type="viaf">http://viaf.org/viaf/121595990/</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000056">
+<persName type="display">Wilhelm I. Deutsches Reich, Kaiser 1797-1888</persName>
+<persName type="full"><surname>Ludwig</surname>, <forename type="first" full="yes">Wilhelm</forename> <forename type="middle" full="init">Friedrich</forename> <addName type="honorific"></addName></persName>
+<birth when="1797-03-22" source="https://www.britannica.com/biography/William-I-emperor-of-Germany"><placeName>Berlin</placeName></birth>
+<death when="1888-03-09" source="https://www.britannica.com/biography/William-I-emperor-of-Germany"><placeName>Berlin</placeName></death>
+<occupation source="https://www.britannica.com/biography/William-I-emperor-of-Germany" from="1871" to="1888">Emperor</occupation>
+<trait type="race" source="https://www.britannica.com/biography/William-I-emperor-of-Germany"><ab>White</ab></trait>
+<sex source="https://www.britannica.com/biography/William-I-emperor-of-Germany">Male</sex>
+<nationality source="https://www.britannica.com/biography/William-I-emperor-of-Germany">German</nationality>
+<affiliation source="https://www.britannica.com/biography/William-I-emperor-of-Germany">German Empire</affiliation>
+<idno type="viaf">http://viaf.org/viaf/43148190/</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000057">
+<persName type="display">Henrique de Barros Gomes</persName>
+<persName type="full"><surname>Gomes</surname>, <forename type="first" full="yes">Henrique</forename> <forename type="middle" full="init">de Barros</forename> <addName type="honorific"></addName></persName>
+<birth when="1843-09-14" source="https://en.wikipedia.org/wiki/Henrique_de_Barros_Gomes"><placeName>Lisbon</placeName></birth>
+<death when="1898-11-15" source="https://en.wikipedia.org/wiki/Henrique_de_Barros_Gomes"><placeName>Alcanhões, Santarém</placeName></death>
+<occupation source="https://en.wikipedia.org/wiki/Henrique_de_Barros_Gomes">Politician</occupation>
+<trait type="race" source="https://en.wikipedia.org/wiki/Henrique_de_Barros_Gomes"><ab>White</ab></trait>
+<sex source="https://en.wikipedia.org/wiki/Henrique_de_Barros_Gomes">Male</sex>
+<nationality source="https://en.wikipedia.org/wiki/Henrique_de_Barros_Gomes">Portugal</nationality>
+<affiliation source="https://en.wikipedia.org/wiki/Henrique_de_Barros_Gomes">Portuguese Government</affiliation>
+<idno type="viaf">http://viaf.org/viaf/23548025/</idno>
 <note></note>
 </person>
 
