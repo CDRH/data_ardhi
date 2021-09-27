@@ -72,6 +72,8 @@
 <term key="http://viaf.org/viaf/24021254/#Bocage,_Carlos_Roma_du,_1853-1918">Carlos Roma du Bocage</term>
 <term key="http://viaf.org/viaf/39741613/#Girard_de_Rialle,_Julien,_1841-1904">Girard de Rialle, Julien, 1841-1904</term>
 <term>A. O'Neill</term>
+<term key="http://viaf.org/viaf/71440161/#Gr%C3%A9vy,_Jules,_1807-1891">Jules Grévy</term>
+<term key="http://viaf.org/viaf/121595990/#Lu%C3%ADs_I_de_Portugal_Rei_de_Portugal_e_Algarves_(1861%E2%80%931889)">Luís I de Portugal Rei de Portugal e Algarves (1861–1889)</term>
 </keywords>
 <keywords scheme="geonames" n="places">
 <term key="http://www.geonames.org/886841/mashonaland-west-province.html">Mashonaland</term>
@@ -125,6 +127,12 @@
 </person>
 <person role="signatory" xml:id="per.000053">
 <persName>A. O'Neill</persName>
+</person>
+<person role="signatory" xml:id="per.000054">
+<persName>Jules Grévy</persName>
+</person>
+<person role="signatory" xml:id="per.000055">
+<persName>Luís I de Portugal Rei de Portugal e Algarves (1861–1889)</persName>
 </person>
 </listPerson>
 </particDesc>
