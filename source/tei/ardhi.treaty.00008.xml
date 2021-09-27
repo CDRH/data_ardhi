@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"></idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Germany Portugal Treaty 1886</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1886">1886</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="ge">German</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term key="http://viaf.org/viaf/121595990/#Lu%C3%ADs_I_de_Portugal_Rei_de_Portugal_e_Algarves_(1861%E2%80%931889)">Luís I de Portugal Rei de Portugal e Algarves (1861–1889)</term>
+<term key="http://viaf.org/viaf/43148190/#Wilhelm_I._Deutsches_Reich,_Kaiser_1797-1888">Wilhelm I. Deutsches Reich, Kaiser 1797-1888</term>
+<term key="http://viaf.org/viaf/23548025/#Gomes,_Henrique_de_Barros,_1843-1898.">Henrique de Barros Gomes</term>
+<term>Richard von Schmidthals</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="http://www.geonames.org/2264397/portuguese-republic.html">Portgual</term>
+<term key="http://www.geonames.org/2271989/algarve.html">Algarve</term>
+<term key="http://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</term>
+<term>Southwest Africa</term>
+<term key="http://www.geonames.org/3355854/rio-cunene.html">River Kunene</term>
+<term key="http://www.geonames.org/3348297/humbe.html">Humbe</term>
+<term>Serra Canna</term>
+<term key="http://www.geonames.org/876337/cuando-cubango.html">Kubango</term>
+<term key="http://www.geonames.org/877352/andara.html">Andara</term>
+<term key="http://www.geonames.org/3350299/catima.html">Catima</term>
+<term key="http://www.geonames.org/876728/zambezi-river.html">Zambesi</term>
+<term>Southeast Africa</term>
+<term key="http://www.geonames.org/1027917/ruvuma-river.html">River Rovuma</term>
+<term>River M'sinje</term>
+<term key="http://www.geonames.org/924329/lake-nyasa.html">Lake Nyassa</term>
+<term key="http://www.geonames.org/3351879/republic-of-angola.html">Angola</term>
+<term key="http://www.geonames.org/1036973/republic-of-mozambique.html">Mozambique</term>
+<term key="http://www.geonames.org/2267057/lisbon.html">Lisbon</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="pers.000057">
+<persName>Henrique de Barros Gomes</persName>
+</person>
+<person role="signatory" xml:id="pers.000058">
+<persName>Richard von Schmidthals</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021" who="#phh">Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab>(Translation.)</ab>
+<p>THE Government of His Majesty the King of Portugal and the Algarves, and the
+Government of His Majesty the German Emperor, animated by the same desire to draw
+more closely the existing friendly relations between Portugal and Germany, and to gain
+a firm and secure basis for peaceful co-operation in the opening out of Africa to civilization
+and commerce, have resolved to establish certain boundaries, within which each of
+the two Powers shall keep their freedom of action for their colonizing activity.</p>
+<p>For this purpose the Undersigned, Henrique de Barros Gomes, State Councillor of
+His Most Faithful Majesiy, and his Secretary of State for Foreign Affairs, and Councillor
+Richard von Schmidthals, Envoy Extraordinary and Minister Plenipotentiary of His
+Majesty the Emperor, have, in accordance with their full powers, agreed upon the
+following Articles;—</p>
+</div2>
+<div2>
+<head>ARTICLE I.</head>
+<p>The boundary-line which shall separate the Portuguese and German possessions in
+South-West Africa follows the course of the River Kunene. from its mouth to the
+waterfalls which are formed to the south of Humbe by the Kunene breaking through the
+Serra Canna. From this point the line runs along the parallel of latitude to the Kubango,
+then along the course of that stream to the village of Andara, which is to remain in the
+German sphere of influence, and from thence due east to the rapids of Catima, on the
+Zambesi.</p>
+</div2>
+<div2>
+<head>ARTICLE II.</head>
+<p>The boundary-line winch shall separate the Portuguese from the German possessions
+in South-East Africa follows the course of the River Rovuma from its mouth to the point
+where the Biver M’sinje joins the Bovoma and mns to the westward on the pallet of
+latitude to the shores of Lake Nyassa.</p>
+</div2>
+<div2>
+<head>ARTICLE III.</head>
+<p>The Government of His Majesty the German Emperor recognize the right of His
+Majesty the King of Portugal to those territories which lie between the Portuguese
+possessions of Angola and Mozambique, without prejudice of any rights other Powers
+may have previously acquired of exercising their sovereign and civilizing influence, and
+bind themselves in consequence of this recognition not to make any acquisitions of
+territory, nor accept any Protectorates within these provinces, nor to oppose the
+extension of Portuguese influence.</p>
+<p>The Government of His Majesty the King of Portugal and the Algarves undertake
+the same obligation with regard to the territories given over to the German sphere of
+influence by Articles I and II of this Agreement.</p>
+</div2>
+<div2>
+<head>ARTICLE IV.</head>
+<p>Portuguese subjects in the German possessions of Africa, and subjects of the
+German Empire in the Portuguese possessions, shall enjoy the same rights and treatment,
+with regard to the protection of their persons and property, with regard to the acquisition
+and transfer of personal and real property, and with regard to the exercise of their trade,
+as the subjects of the State which exercises the sovereign or protecting rights.</p>
+</div2>
+<div2>
+<head>ARTICLE V.</head>
+<p>The Portuguese and Imperial Governments reserve the right of concluding further
+Agreements to facilitate commerce and navigation, as well as to regulate the frontier
+traffic in the African possessions on both sides.</p>
+</div2>
+<div2 type="signatures">
+<signed>(L.S.) BARROS GOMES.</signed>
+<signed>(L.S.) SCHMIDTHALS.</signed>
+</div2>
+<div2>
+<head>ADDITIONAL ARTICLE.</head>
+<p>This Agreement will come into force and become binding for both Powers as soon
+as it is agreed to by the Portuguese Cortes, and published in the official prints of both
+countnes.</p>
+<p>Done in duplicate at Lisbon on the 30th December, 1886.</p>
+</div2>
+<div2 type="signatures">
+<signed>(L.S.) BARROS GOMES.</signed>
+<signed>(L.S.) SCHMIDTHALS.</signed>
+</div2>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
