@@ -317,6 +317,47 @@ NOTES:
 <note></note>
 </person>
 
+<person xml:id="per.0000059">
+<persName type="display">Lobengula</persName>
+<persName type="full"><surname></surname>, <forename type="first" full="yes">Lobengula</forename> <forename type="middle" full="init"></forename> <addName type="honorific"></addName></persName>
+<birth when="1836" source="https://www.britannica.com/biography/Lobengula"><placeName>Mosega, Transvaal</placeName></birth>
+<death when="1894" source="https://www.britannica.com/biography/Lobengula"><placeName>Bulawayo, Rhodesia</placeName></death>
+<occupation source="https://www.britannica.com/biography/Lobengula" from="1870" to="1894">King</occupation>
+<trait type="race" source="https://www.britannica.com/biography/Lobengula"><ab>Black</ab></trait>
+<sex source="https://www.britannica.com/biography/Lobengula">Male</sex>
+<affiliation source="https://www.britannica.com/biography/Lobengula">Ndebele Nation</affiliation>
+<idno type="viaf">http://viaf.org/viaf/60151193/</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000061">
+<persName type="display">Sir Benjamin D'Urban</persName>
+<persName type="full"><surname>D'Urban</surname>, <forename type="first" full="yes">Benjamin</forename> <forename type="middle" full="init"></forename> <addName type="honorific"></addName></persName>
+<birth when="1777" source="https://www.britannica.com/biography/Benjamin-DUrban"><placeName>Halesworth, near Norwich, Norfolk, England</placeName></birth>
+<death when="1849-05-25" source="https://www.britannica.com/biography/Benjamin-DUrban"><placeName>Montreal, Quebec, Canada</placeName></death>
+<occupation source="https://www.britannica.com/biography/Benjamin-DUrban">Colonial Administrator</occupation>
+<trait type="race" source="https://www.britannica.com/biography/Benjamin-DUrban"><ab>White</ab></trait>
+<sex source="https://www.britannica.com/biography/Benjamin-DUrban">Male</sex>
+<nationality source="https://www.britannica.com/biography/Benjamin-DUrban">Gret Britain</nationality>
+<affiliation source="https://www.britannica.com/biography/Benjamin-DUrban">British Government</affiliation>
+<idno type="viaf">http://viaf.org/viaf/68774511/</idno>
+<note></note>
+</person>
+
+<person xml:id="per.0000062">
+<persName type="display">Sir Hercules Robinson</persName>
+<persName type="full"><surname>Robinson</surname>, <forename type="first" full="yes">Hercules</forename> <forename type="middle" full="init"></forename> <addName type="honorific"></addName></persName>
+<birth when="1824-12-19" source="https://www.britannica.com/biography/Hercules-Robinson"><placeName>Ireland</placeName></birth>
+<death when="1897-10-28" source="https://www.britannica.com/biography/Hercules-Robinson"><placeName>London</placeName></death>
+<occupation source="https://www.britannica.com/biography/Hercules-Robinson">Colonial Governor</occupation>
+<trait type="race" source="https://www.britannica.com/biography/Hercules-Robinson"><ab>White</ab></trait>
+<sex source="https://www.britannica.com/biography/Hercules-Robinson">Male</sex>
+<nationality source="https://www.britannica.com/biography/Hercules-Robinson">Great Britain</nationality>
+<affiliation source="https://www.britannica.com/biography/Hercules-Robinson">British Government</affiliation>
+<idno type="viaf">http://viaf.org/viaf/77805368/</idno>
+<note></note>
+</person>
+
 </listPerson>
 
 </div1>
