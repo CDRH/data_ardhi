@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00010">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00010</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Anglo Makololo Treaty 1889</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1889">1889</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term></term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-10" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab>Inclosure 1 in No. 229.</ab>
+<ab><hi rend="italic">Treaty made at Mbewe, September 24, 1889, with Mlauli, Makololo Chief.</hi></ab>
+<p>Treaty made at Mbewe, in the Makololo country, on the River Shiré, this 24th day of September, in the year 1889, between John Buchanan, Esq., Her Majesty the Queen of Great Britain and Ireland, Empress of India, &amp;c, her heirs and successors, on the one part, and the undersigned Mlauli, for his heirs and successors, on the other part.</p>
+<p>I, THE undersigned Mlauli, do in the presence of Headmen and people assumbled at this place, hereby promise:—</p>
+<p>1. That there shall be peace between the subjects of the Queen of England and my subjects.</p>
+<p>2. That British subjects shall have free access to ll parts of the Makololo country and the River Shiré, and shall have the right to build houses and possess property according to the laws in force in this country ; that they shall have full liberty to carry on such trade or manufacture as may be approved by Her Majesty ; and should any difference arise between the aforesaid British subjects and me, the said Mlauli, as to the duties or customs to be paid to me, the said Mlauli, or the Headmen of the towns in my country, by such British subjects, or as to any other matter, that the dispute shall be referred to a fuly authorized Representative of Her Majesty, whose decision in the matter shall be binding and final.</p>
+<p>3. That I, the said Mlauli, will at no time whatever cede any of my territory to any other Power, or enter into any Agreement, Treaty, or arrangement with any foreign Government except through and with the consent of the Government of Her Majesty the Queen of England, &amp;c.</p>
+<p>Done at Mbewe this 24th day of September, 1889.</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed)    Mlauli, his x mark.</signed>
+<signed>JOHN BUCHANAN, <hi rend="italic">Her Majesty's Acting Consul for Nyassa.</hi></signed>
+</div2>
+<div2>
+<p>I, John Buchanan, Her Majesty's Acting Consul for Nyassa, do hereby swear that Mlauli, here present, superstitiously afraid of putting his hand to this paper, has authorized me, in the presence of Katunga and Masea, Makololo Chiefs, and of a great number of his people, and of all the undersigned witnesses, to make the above mark on his behalf.</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed)    JOHN BUCHANAN, <hi rend="italic">Her Majesty's Acting Consul for Nyassa.</hi></signed>
+<p>Signed in the presence of—</p>
+<signed>(Signed)    J<hi rend="smallcaps">ohn W. Moir</hi>, <hi rend="italic">Manager, African Lakes Company (Limited).</hi></signed>
+<signed>A<hi rend="smallcaps">DAM</hi> M<hi rend="smallcaps">C</hi>C<hi rend="smallcaps">ULLOCH</hi>, <hi rend="italic">Trader</hi>.</signed>
+<signed>D<hi rend="smallcaps">ONALD</hi> M<hi rend="smallcaps">ALOTTA</hi>.</signed>
+<signed>T<hi rend="smallcaps">HOMAS</hi> F<hi rend="smallcaps">AULKNER</hi>.</signed>
+<signed>F<hi rend="smallcaps">RED</hi>.</signed>
+</div2>
+<div2 type="signatures">
+<p>We, the Undersigned, do swear that we have truly and honestly interpreted the terms of the foregoing Agreement to the Contracting Parties in the Chinyanja language.</p>
+<signed>(Signed)    J<hi rend="smallcaps">ohn W. Moir</hi></signed>
+<signed>D<hi rend="smallcaps">ONALD</hi> M<hi rend="smallcaps">ALOTTA</hi>.</signed>
+</div2>
+<div2 type="signatures">
+<p>Witness to signatures:</p>
+<signed>(Signed)    J<hi rend="smallcaps">OHN</hi> B<hi rend="smallcaps">UCHANAN</hi>, <hi rend="italic">Her Majesty's Acting Consul.</hi></signed>
+</div2>
+<div2>
+<ab>Inclosure 2 in No. 229</ab>
+<ab><hi rend="italic">Treaty made at Chilomo (Ruo), September 26, 1889, with Liwewe and Chitawonga, Sons of the late Chiputula.</hi></ab>
+<p>Treaty made at Chilomo (Ruo), in the Makololo country, on the River Shiré, this 26th day of September, in the year 1889, between John Buchanan, Esq., Her Majesty's Acting Consul for Nyassa, for and on behalf of Her Majesty the Queen of Great Britain and Ireland, Empress of India, &amp;c., her heirs and successors, on the one part, and the undersigned Makololo Chiefs, for their heirs and successors, on the other part.</p>
+<p>WE, the undersigned Makololo Chiefs (sons of the late Chiputula), do, in the presence of Headmen and people assembled at this place, hereby promise:—</p>
+<p>1. That there shall be peace between the subjects of the Queen of England and our subjects.</p>
+<p>2. That British subjects shall have free access to all parts of our territory (country), and shall have the right to build houses and possess property according to the laws in force in this country ; that they shall have full liberty to carry on such trade or manufacture as may be approved by Her Majesty ; and should any difference arise between the aforesaid British subjects and us, the said Makololo Chiefs, as to the duties or customs to be paid to us, the said Makololo Chiefs, or the Headmen of the towns in our country, by such British subjects, or as to any other matter, that the dispute shall be referred to a duly authorized Representative of Her Majesty, whose decision in the matter shall be binding and final.</p>
+<p>3. That we, the said Makololo Chiefs, will at no time whatever cede any of our territory to any other Power, or enter into an Agreement, Treaty, or arrangement with any foreign Government except through and with the consent of the Government of Her Majesty the Queen of England, &amp;c.</p>
+<p>Done at Chilomo this 26th day of September, 1889.</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed)    LIWEWE (Son of Chiputula).</signed>
+<signed>CHITAWONGA (Son of Chiputula).</signed>
+<signed>JOHN BUCHANAN, <hi rend="italic">Her Majesty's Acting Consul for Nyassa</hi>.</signed>
+<p>Signed in the presence of—</p>
+<signed>(Signed)    A<hi rend="smallcaps">NDREW</hi> B<hi rend="smallcaps">AIRD</hi>, <hi rend="italic">Engineer</hi>.</signed>
+<signed>M<hi rend="smallcaps">TATIKA</hi>, <hi rend="italic">Consular Servant</hi>.</signed>
+</div2>
+<div2 type="signatures">
+<p>I, the Undersigned, do swear that I have truly and honestly interpreted the terms of the foregoing Agreement to the Contracting Parties in the Chinyanja language.</p>
+<signed>(Signed)    J<hi rend="smallcaps">OHN</hi> B<hi rend="smallcaps">UCHANAN</hi>.</signed>
+</div2>
+<div2 type="signatures">
+<p>Witness to signatures:</p>
+<signed>(Signed)    A<hi rend="smallcaps">NDREW</hi> B<hi rend="smallcaps">AIRD</hi>.</signed>
+</div2>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
