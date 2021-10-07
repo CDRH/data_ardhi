@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>France Portugal Treaty 1886</title>
 <principal n="Muchiri, Nganga">Nganga Muchiri</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -55,7 +55,6 @@
 <profileDesc>
 <langUsage>
 <language ident="en">English</language>
-<language ident="fr">French</language>
 </langUsage>
 <textClass>
 <keywords scheme="original" n="theme">
@@ -72,40 +71,28 @@
 <term key="http://viaf.org/viaf/24021254/#Bocage,_Carlos_Roma_du,_1853-1918">Carlos Roma du Bocage</term>
 <term key="http://viaf.org/viaf/39741613/#Girard_de_Rialle,_Julien,_1841-1904">Girard de Rialle, Julien, 1841-1904</term>
 <term>A. O'Neill</term>
-<term key="http://viaf.org/viaf/71440161/#Gr%C3%A9vy,_Jules,_1807-1891">Jules Grévy</term>
-<term key="http://viaf.org/viaf/121595990/#Lu%C3%ADs_I_de_Portugal_Rei_de_Portugal_e_Algarves_(1861%E2%80%931889)">Luís I de Portugal Rei de Portugal e Algarves (1861–1889)</term>
 </keywords>
 <keywords scheme="geonames" n="places">
 <term key="http://www.geonames.org/886841/mashonaland-west-province.html">Mashonaland</term>
 <term target="http://www.geonames.org/2264397/portuguese-republic.html">Portugal</term>
 <term key="http://www.geonames.org/2271989/algarve.html">Algarve</term>
 <term key="http://www.geonames.org/2988507/paris.html">Paris, France</term>
-<term>French Republic</term>
-<term key="http://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</term>
-<term>Prussia</term>
 <term key="http://www.geonames.org/924329/lake-nyasa.html">Lake Nyassa</term>
 <term key="http://www.geonames.org/2420477/republic-of-guinea.html">Guinea</term>
-<term>Cape Roxo</term>
 <term>River Casamance</term>
 <term>River San Domingo de Cacheu</term>
 <term key="http://www.geonames.org/2419799/rio-inxanche.html">River Cajet</term>
-<term>Island of Catack</term>
 <term key="http://www.geonames.org/2414451/iles-tristao.html">Tristão</term>
 <term key="http://www.geonames.org/2422466/rio-compony.html">Rio Componi</term>
 <term key="http://www.geonames.org/2374293/rio-cacine.html">Rio Cassini</term>
-<term>Kacondo</term>
-<term>Rio Grande</term>
-<term>Passe des Pilots</term>
 <term key="http://www.geonames.org/2420896/fouta-djallon.html">Fouta-Djallon</term>
 <term key="http://www.geonames.org/2260494/republic-of-the-congo.html">Congo</term>
 <term>Chamba Point</term>
+<term key="http://www.geonames.org/1043442/lago-luali.html">Luali</term>
 <term key="http://www.geonames.org/2258362/loeme.html">Loema</term>
 <term key="http://www.geonames.org/2258375/loango.html">Loango</term>
 <term key="http://www.geonames.org/211032/lubinda-mwenge.html">Lubinda</term>
-<term key="http://www.geonames.org/1043442/lago-luali.html">Luali</term>
 <term key="http://www.geonames.org/2241880/shiloango.html">Chiloango</term>
-<term>Congo Free State</term>
-<term>Chamba Point</term>
 <term key="http://www.geonames.org/3351879/republic-of-angola.html">Angola</term>
 <term key="http://www.geonames.org/1036973/republic-of-mozambique.html">Mozambique</term>
 </keywords>
@@ -114,22 +101,6 @@
 </keywords>  
 </textClass>
 
-<particDesc>
-<listPerson>
-<person role="signatory" xml:id="per.000050">
-<persName>Joao de Andrade Corvo</persName>
-</person>
-<person role="signatory" xml:id="per.000051">
-<persName>Carlos Roma du Bocage</persName>
-</person>
-<person role="signatory" xml:id="per.000052">
-<persName>Girard de Rialle, Julien, 1841-1904</persName>
-</person>
-<person role="signatory" xml:id="per.000053">
-<persName>A. O'Neill</persName>
-</person>
-</listPerson>
-</particDesc>
 
 </profileDesc>
 
@@ -146,6 +117,14 @@
 
 <pb facs="x"/>
 <div2>
+<head>Correspondence respecting Action of Portugal in Mashonaland
+and in the Districts of the Shiré and Lake Nyassa</head>
+<ab>No. 1</ab>
+<ab><hi rend="italic">Mr. Petre to the Marquis of Salisbury.—(Received July 5.)</hi></ab>
+<ab>(Extract.)
+<hi rend="italic">Lisbon, June 22, 1887.</hi></ab>
+<p>I HAVE the honour to transmit to your Lordship the text, in French, of the Treaty signed at Paris on the 12th May, 1886.</p>
+<ab>Inclosure in No. 1.</ab>
 <ab><hi rend="italic">Convention relating to the Delimitation of the French and Portuguese Possessions in
 West Africa.—Signed at Paris, May 12, 1886</hi></ab>
 </div2>
