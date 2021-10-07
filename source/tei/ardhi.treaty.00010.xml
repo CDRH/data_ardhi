@@ -77,6 +77,9 @@
 <term>Thomas Faulkner</term>
 <term>Fred</term>
 </keywords>
+<keywords n="treatydate">
+<term>1889</term>
+</keywords>
 <keywords scheme="geonames" n="places">
 <term key="http://www.geonames.org/926867/mbewe.html">Mbewe</term>
 <term key="http://www.geonames.org/924329/lake-nyasa.html">Nyassa</term>
@@ -87,7 +90,31 @@
 <term/>
 </keywords>  
 </textClass>
-
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000067">
+<persName>Mlauli</persName>
+</person>
+<person role="signatory" xml:id="per.0000068">
+<persName>John Buchanan</persName>
+</person>
+<person role="signatory" xml:id="per.0000071">
+<persName>John W. Moir</persName>
+</person>
+<person role="signatory" xml:id="per.0000072">
+<persName>Adam McCulloch</persName>
+</person>
+<person role="signatory" xml:id="per.0000073">
+<persName>Donald Malotta</persName>
+</person>
+<person role="signatory" xml:id="per.0000074">
+<persName>Thomas Faulkner</persName>
+</person>
+<person role="signatory" xml:id="per.0000075">
+<persName>Fred</persName>
+</person>
+</listPerson>
+</particDesc>
 
 </profileDesc>
 

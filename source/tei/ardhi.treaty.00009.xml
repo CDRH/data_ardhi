@@ -77,6 +77,9 @@
 <term>G. B. van Wyk</term>
 <term>J. S. Moffat</term>
 </keywords>
+<keywords n="treatydate">
+<term>1888</term>
+</keywords>
 <keywords scheme="geonames" n="places">
 <term>Amandebeleland</term>
 <term key="http://www.geonames.org/3369157/cape-town.html">Cape Town</term>
@@ -87,7 +90,25 @@
 <term>Makakalaka</term>
 </keywords>  
 </textClass>
-
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000059">
+<persName>Lobengula</persName>
+</person>
+<person role="signatory" xml:id="per.0000064">
+<persName>W. Graham</persName>
+</person>
+<person role="signatory" xml:id="per.0000065">
+<persName>G. B. Van Wyk</persName>
+</person>
+<person role="signatory" xml:id="per.0000066">
+<persName>J. S. Moffat</persName>
+</person>
+<person role="signatory" xml:id="per.0000062">
+<persName>Hercules Robinson</persName>
+</person>
+</listPerson>
+</particDesc>
 
 </profileDesc>
 

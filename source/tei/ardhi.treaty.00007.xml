@@ -72,6 +72,9 @@
 <term key="http://viaf.org/viaf/39741613/#Girard_de_Rialle,_Julien,_1841-1904">Girard de Rialle, Julien, 1841-1904</term>
 <term>A. O'Neill</term>
 </keywords>
+<keywords n="treatydate">
+<term>1886</term>
+</keywords>
 <keywords scheme="geonames" n="places">
 <term key="http://www.geonames.org/886841/mashonaland-west-province.html">Mashonaland</term>
 <term target="http://www.geonames.org/2264397/portuguese-republic.html">Portugal</term>
@@ -100,7 +103,22 @@
 <term/>
 </keywords>  
 </textClass>
-
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000050">
+<persName>(L.S.) JOAO DF. ANDRADE CORVO</persName>
+</person>
+<person role="signatory" xml:id="per.0000051">
+<persName>(L.S.) CARLOS ROMA DU BOCAGE</persName>
+</person>
+<person role="signatory" xml:id="per.0000052">
+<persName>(L.S.) J. GIRARD DE RIALLE</persName>
+</person>
+<person role="signatory" xml:id="per.0000053">
+<persName>(L.S.) A. O’NEILL</persName>
+</person>
+</listPerson>
+</particDesc>
 
 </profileDesc>
 

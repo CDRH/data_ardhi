@@ -74,6 +74,9 @@
 <term>Mtatika</term>
 <term>John Buchanan</term>
 </keywords>
+<keywords n="treatydate">
+<term>1889</term>
+</keywords>
 <keywords scheme="geonames" n="places">
 <term key="http://www.geonames.org/1049354/chilomo.html">Chilomo</term>
 <term key="http://www.geonames.org/1027846/ruo-river.html">Ruo</term>
@@ -82,7 +85,25 @@
 <term>Makololo</term>
 </keywords>  
 </textClass>
-
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000076">
+<persName>Liwewe</persName>
+</person>
+<person role="signatory" xml:id="per.0000077">
+<persName>Chitawonga</persName>
+</person>
+<person role="signatory" xml:id="per.0000068">
+<persName>John Buchanan</persName>
+</person>
+<person role="signatory" xml:id="per.0000079">
+<persName>Andrew Baird</persName>
+</person>
+<person role="signatory" xml:id="per.0000080">
+<persName>Mtatika</persName>
+</person>
+</listPerson>
+</particDesc>
 
 </profileDesc>
 
