@@ -1,45 +1,86 @@
 title,latitude,longitude,place_name,city,state,country,region,questions,geonames
 "Abu Jamal, Sudan",15.1672,36.4325,,Abu Jamal,,Sudan,,,https://www.geonames.org/380920
 "Adis Ababa, Ethiopia",8.9806,38.7578,,Adis Adaba,,Ethiopia,,,https://www.geonames.org/344979
+Algarve,37.18849,-8.15642,,,,,,,http://www.geonames.org/2271989/algarve.html
+Amandebeleland,,,,,,,,,
+Andara,-18.06667,21.45,,,,,,,http://www.geonames.org/877352/andara.html
+Angola,-12.5,18.5,,,,,,,http://www.geonames.org/3351879/republic-of-angola.html
 "Āwraja Gash-Setīt, Eritrea",15.4069,37.6387,Āwraja Gash-Setīt,,,Eritrea,,"I found a website that says this is an administrative division within Gash Barka, need to confirm what Awraja Gash-Setit is",https://www.geonames.org/337233
+Bunce Island,8.5699,-13.0404,Bunce Island,,,Sierra Leone,,does this need to have the country in the name?,https://www.geonames.org/2566516/bunce-island.html
 Baro,8.4346,33.2202,,,,Ethiopia,,Possibly Baro Guinea?,https://www.geonames.org/377618
 "Blue Nile, Sudan",11.586,34.1532,,,Blue Nile,Sudan,,,https://www.geonames.org/408654
-Bance Island,8.5699,13.0404,Bunce Island,,,Sierra Leone,,does this need to have the country in the name?,
 Bunch River,,,,,,Sierra Leone,,cannot locate,
+Cape Town,-33.92584,18.42322,,,,,,,http://www.geonames.org/3369157/cape-town.html
+Catima,-12.86669,17.48333,,,,,,,http://www.geonames.org/3350299/catima.html
+Chamba Point,,,,,,,,,
+Chiloango,-5.2,12.11667,,,,,,,http://www.geonames.org/2241880/shiloango.html
+Chilomo,-20.85417,33.39667,,,,,,,http://www.geonames.org/1049354/chilomo.html
+Congo,-1,15.5,,,,,,,http://www.geonames.org/2260494/republic-of-the-congo.html
 Dahomey,7.17986,1.997966,,Abomey,,Benin,,,
+England,53.447674,-1.873846,,,,,,,
 Eritrea,15.1794,39.7823,,,,Eritrea,,,
 Ethiopia,9.145,40.4897,,,,Ethiopia,,,https://www.geonames.org/337996
+Fouta-Djallon,11.5,-12.5,,,,,,,http://www.geonames.org/2420896/fouta-djallon.html
 France,46.13715,1.896765,,,,,,,
 Frenchman's Bay,,,,,,Sierra Leone,,"Indigenous name = Romarong, then name change to St. George's Bay",
 "Gallabat, Sudan",12.9613,36.1484,,Gallabat,,Sudan,,,https://www.geonames.org/368470
 Gambia,13.4432,15.3101,,,,Gambia,,,https://www.geonames.org/2413451
+Germany,51.5,10.5,,,,,,,http://www.geonames.org/2921044/federal-republic-of-germany.html
+Great Britain,53.893937,-1.908086,,,,,,,
+Guinea,10.83333,-10.66667,,,,,,,http://www.geonames.org/2420477/republic-of-guinea.html
 Hastings,8.379885,-13.134185,,,,Sierra Leone,,Formerly called Ro Bompe,
+Humbe,-16.6864,14.90317,,,,,,,http://www.geonames.org/3348297/humbe.html
+India,20.250808,77.67866,,,,,,,
+Ireland,52.969213,-7.59792,,,,,,,
 "Itang, Ethiopia",8.197,34.2667,,Itang,,Ethiopia,,,https://www.geonames.org/334050
 Khor Um Hagar,11.5022,23.00042,,Hagar Banga,Um Dukhun,Sudan,,"Not sure this is right, very few results about this location except from https://elevationmap.net/hagar-banga-um-dukhun-sd-1011297720",
+Kubango,-15.94761,19.3832,,,,,,,http://www.geonames.org/876337/cuando-cubango.html
 "Lagos, Nigeria",6.5244,3.3792,,Lagos,,Nigeria,,,http://www.geonames.org/2332459
+Lake Nyassa,-12,34.5,,,,,,,http://www.geonames.org/924329/lake-nyasa.html
 Lake Tana,12.0266,37.3035,Lake Tana,,,Ethiopia,,,https://www.geonames.org/327932
+Lisbon,38.71667,-9.13333,,,,,,,http://www.geonames.org/2267057/lisbon.html
+Loango,-4.65194,11.8125,,,,,,,http://www.geonames.org/2258375/loango.html
+Loema,-5.03333,12.01667,,,,,,,http://www.geonames.org/2258362/loeme.html
+Luali,-21.91556,34.7575,,,,,,,http://www.geonames.org/1043442/lago-luali.html
+Lubinda,-8.33333,25.26667,,,,,,,http://www.geonames.org/211032/lubinda-mwenge.html
 Mai Ambessa,14.9,37.9167,,,,Eritrea,,"river connecting to the Mereb, very close to the Eritrea/Ethiopia border",not sure if the geonames in TEI is correct: https://www.geonames.org/344061
 Maieteb,14.369421,36.835537,,,,,,"aka Maiteb, present-day Eritrea",
-Mar Porto,,,,,,,,"not sure if this is an actual city or a description ""sea port""",
+Mar Porto,8.328058,-13.063993,,,,Sierra Leone,,"name means ""sea port"" in Portuguese. the loccation was renamed Waterloo",
 Mareb Wenz,14.893567,37.91868,,,,,,river delineating Eritrea/Ethiopia border,https://www.geonames.org/330941
+Mashonaland,-17.16667,29.75,,,,,,,http://www.geonames.org/886841/mashonaland-west-province.html
+Mbewe,-16.168,34.89815,,,,,,,http://www.geonames.org/926867/mbewe.html
 Mélilé,,,,,,,,Possibly the north african town Melilla?,https://www.geonames.org/2227251
 Mount Ala Tacura,,,,,,,,Treaty 00004,
+Mozambique,-18.25,35,,,,,,,http://www.geonames.org/1036973/republic-of-mozambique.html
+Nyassa,0.18368,32.02853,,,,,,,http://www.geonames.org/11552497/nyassa.html
+"Paris, France",48.85341,2.3488,,,,,,,http://www.geonames.org/2988507/paris.html
 Pibor,6.8002,33.1267,,Pibor,,Sudan,,"Using pibor post for info, not sure if correct",https://www.geonames.org/368553
+Portugal,39.6945,-8.13057,,,,,,,http://www.geonames.org/2264397/portuguese-republic.html
+Rio Cassini,11,-15.15,,,,,,,http://www.geonames.org/2374293/rio-cacine.html
+Rio Componi,10.83333,-14.85,,,,,,,http://www.geonames.org/2422466/rio-compony.html
 River Akobo,7.693455,33.588632,River Akobo,,,Ethiopia/South Sudan border,,,https://www.geonames.org/379791
+River Cajet,10.9,-15.06667,,,,,,,http://www.geonames.org/2419799/rio-inxanche.html
+River Casamance,12.55611,-16.75917,,,,,,,http://www.geonames.org/2253434/casamance.html
+River Kunene,-17.24577,11.75262,,,,,,,http://www.geonames.org/3355854/rio-cunene.html
+River M'sinje,,,,,,,,,
+River Rovuma,-10.47472,40.43833,,,,,,,http://www.geonames.org/1027917/ruvuma-river.html
+River San Domingo de Cacheu,12.16778,-16.35,,,,,,,http://www.geonames.org/2374310/rio-cacheu.html
+River Shiré,-17.7,35.31667,,,,,,,http://www.geonames.org/1048833/shire-river.html
 River Sobat,,,,,,,,not really sure which portion of this river would be most relevant to drop a pin on,https://www.geonames.org/366760
-Ro Bompe,,,,,,,,unable to locate,
+Ro Bompe,8.379885,-13.134185,,,,Sierra Leone,,renamed Hastings,
 Ro-Cupra,,,,,,,,unable to locate,
 Robiss,,,,,,,,unable to locate,
+Ruo,-16.555,35.1475,,,,,,,http://www.geonames.org/1027846/ruo-river.html
 "Sabderat, Eritrea",15.45,36.65,,Sabderate,,Eritrea,,not sure but using geonames for coordinates,https://www.geonames.org/329126
+Serra Canna,,,,,,,,,
 Salt Town,,,,,,,,unable to locate,not sure if this is correct: https://www.geonames.org/2295671/salt-town.html
 Setit,14.31012,36.627601,,,,,,river delineating Eritrea/Ethiopia border,
 Sierra Leone,8.4606,11.7799,,,,Sierra Leone,,,http://www.geonames.org/2403846
+Southeast Africa,,,,,,,,,
+Southwest Africa,,,,,,,,,
 St. George's Bay,,,,,,Sierra Leone,,"formerly called Romarong, then Frenchman's Bay ",
 Sudan,12.8628,30.2176,,,,Sudan,,Not sure that these coordinates are correctly centered for the historical boundaries of Sudan,https://www.geonames.org/366755
+Tristão,10.88333,-14.96667,,,,,,,http://www.geonames.org/2414451/iles-tristao.html
 Uganda,1.3733,32.3903,,,,Uganda,,,https://www.geonames.org/226074
-Waterloo,51.503087,-0.111624,,,,,,Formerly Mar Porto,
-,,,,,,,,,
-Great Britain,53.893937,-1.908086,,,,,,,
-Ireland,52.969213,-7.59792,,,,,,,
-India,20.250808,77.67866,,,,,,,
-England,53.447674,-1.873846,,,,,,,
+Waterloo,8.328058,-13.063993,,,,Sierra Leone,,Formerly Mar Porto,
+Zambesi,-18.83333,36.28333,,,,,,,http://www.geonames.org/876728/zambezi-river.html
