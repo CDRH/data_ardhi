@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00012">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Mlomba Declaration 1889</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00012</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Mlomba Declaration 1889</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1889">1889</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term>John Buchanan</term>
+<term key="http://viaf.org/viaf/95738652/#Victoria,_Queen_of_Great_Britain,_1819-1901">Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords n="treatydate">
+<term>1889</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="http://www.geonames.org/926383/mlomba.html">Mlomba</term>
+<term key="http://www.geonames.org/11552497/nyassa.html">Nyassa</term>
+<term key="http://www.geonames.org/1048833/shire-river.html">River Shiré</term>
+<term key="http://www.geonames.org/1027846/ruo-river.html">Ruo River</term>
+<term>Milanjé Mountains</term>
+<term key="http://www.geonames.org/1048775/lake-chilwa.html">Lake Shirwa</term>
+<term key="http://www.geonames.org/923295/zomba.html">Zomba</term>
+<term key="http://www.geonames.org/927311/malosa-mountain.html">Malosa</term>
+<term key="http://www.geonames.org/7870395/mpassa-department.html">Mpassa</term>
+<term key="http://www.geonames.org/927871/lisungwe-river.html">Lisungwi River</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term>Makololo</term>
+<term>Yao</term>
+<term>Machinga</term>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000068">
+<persName>John Buchanan</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-10" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab><hi rend="italic">Declaration of Protectorate over the Makololo, Yao, and Machinga Countries.</hi></ab>
+<p>To all whom it may concern,</p>
+<p>I HEREBY declare that the Makololo, Yao, and Machinga countries, within the limits cited below, are, with the consent and at the desire of their Chiefs and people, placed under the protection of Her Most Gracious Majesty the Queen of Great Britain and Ireland, Empress of India, Defender of the Faith, &amp;c.</p>
+<p>Given at Mlomba, Makololo country, this 2lst day of September, 1889.</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed)    JOHN BUCHANAN,
+<hi rend="italic">Her Majesty's Acting Consul for Nyassa.</hi></signed>
+</div2>
+<div2>
+<p>The above Declaration applies to the countries included within the following boundaries:—</p>
+<p>Commencing on the left bank of the lower Shiré River at its confluence with the Ruo River, and following the Ruo to where it takes its rise in the Milanjé Mountains, thence the Milanjé Mountains to the most southerly point of Lake Shirwa, and northward along its eastern shores, including the northern slopes of the Zomba and Malosa Mountains, to the upper Shiré River ; and, on the right bank of the lower Shiré River, commencing at the lowermost point of the Makololo country, as at present opposite Mpassa's (this point, however, is subject to rearrangement by Her Majesty's Government), and following the Shiré at a distance of 50 miles inland from the river till it meets the Lisungwi River.</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed)    JOHN BUCHANAN,
+<hi rend="italic">Her Majesty's Acting Consul for Nyassa.</hi></signed>
+</div2>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
