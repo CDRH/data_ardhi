@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00013">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Zumbo Decree 1889</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00013</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Zumbo Decree 1889</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1889">1889</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="po">Portuguese</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term key="http://viaf.org/viaf/14658460/#Garcia,_Frederico_Ressano">Frederico Ressano Garcia</term>
+<term key="http://viaf.org/viaf/71400758/#Carlos_I,_Rei_de_Portugal,_1863-1908">Carlos I, King of Portugal, 1863-1908</term>
+</keywords>
+<keywords n="treatydate">
+<term>1889</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="http://www.geonames.org/2264397/portuguese-republic.html">Portugal</term>
+<term key="http://www.geonames.org/1024693/zumbo.html">Zumbo</term>
+<term key="http://www.geonames.org/876728/zambezi-river.html">Zambesi</term>
+<term key="http://www.geonames.org/1036973/republic-of-mozambique.html">Mozambique</term>
+<term key="http://www.geonames.org/1051691/rio-cafucue.html">Cafucué</term>
+<term key="http://www.geonames.org/1046855/rio-luangua.html">Aruangua</term>
+<term key="http://www.geonames.org/1026014/tete.html">Tete</term>
+<term key="http://www.geonames.org/2233977/bisombo.html">Bissombo</term>
+<term key="http://www.geonames.org/1043428/luangua.html">Cabeceiras do Luangua</term>
+<term>River Mussengueji</term>
+<term key="http://www.geonames.org/1029131/panhame.html">Panhame</term>
+<term key="http://www.geonames.org/1043302/ruya.html">Luia</term>
+<term key="http://www.geonames.org/884824/mazura.html">Mazura</term>
+<term key="http://www.geonames.org/1040947/manica-province.html">Manica</term>
+<term key="http://www.geonames.org/1027190/save.html">River Save</term>
+<term>Cabeceiras do Monfuli</term>
+<term>Sanhati</term>
+<term>M'chesa</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000081">
+<persName>Frederico Ressano Garcia</persName>
+</person>
+<person role="signatory" xml:id="per.0000082">
+<persName>Carlos I, King of Portugal, 1863-1908</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-10" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab><hi rend="italic">Extract from the " Diario do Governo " of November 9, 1889.</hi></ab>
+<p>(Translation.)</p>
+<p>WHEREAS it is a matter of great importance to the interests of the Portuguese nation to consolidate the dominion and sovereignty which it already holds in the interior of the African Continent, and to cause it to irradiate to the various points where its influence preponderates in such a manner as to secure the greatest success for the great work of humanity—the civilization of Africa, in which this country has long been engaged;</p>
+<p>Whereas it is necessary for this purpose to establish certain strongholds and centres of official action in order to afford to lawful trade such protection as it may require for its development, and at the same time to oppose certain Slave Trade and slavery practices that are still prevalent among the pagan and barbarous tribes of the wilds in the interior;</p>
+<p>Whereas the ancient village of Zumbo, on the left bank of Zambesi, naturally presents itself as an appropriate place for the seat of a new district in the Province of Mozambique, in view not only of the mildness of its climate and the fertility and richness of the territories which surround it, but also by the extensive network of navigable rivers of which it is the centre, such as the Upper Zambesi and its great affluents the Cafucué and North Aruangua;</p>
+<p>In view of the representations made to me upon this matter by the Governor-General
+of the said province;</p>
+<p>With the advice of the Board for the Colonies and the Council of Ministers;</p>
+<p>Availing myself of the powers granted to the Government in the first paragraph of the 15th Article of the First Additional Act to the Constitutional Charter of the Monarchy;</p>
+<p>I hereby decree:</p>
+<p>Article 1. A new district is established in the Province of Mozambique under the name Zumbo, its capital being the village of the same name.</p>
+<p>Art. 2. The new district of Zumbo—which is in virtue of this Decree separated from Tete—is bounded by the course of the Rivers Bissombo and North Aruangua from the point of confluence of the first named river as far as the nearest point to the Cabeceiras do Luangua along the course of this river till the Zambesi, and from the Zambesi until the spot where it is joined by the River Mussengueji; thenceforward the frontier of the new district is formed by the said River Mussengueji as far as its source along the line of division formed by the waters of the Rivers Panhame and Luia and by the bed of the Mazura until it meets the frontier of the district of Manica, coinciding with the same as far as the point in which the Mazura meet the River Save; it then follows the bed of this river on the upper side, and it thence proceeds to Cabeceiras do Monfuli, alongside the bed of the latter as well as that of the Sanhati as far as the Zambesi through which it continues to the westward.</p>
+<p>Art. 3. The provisional staff of the district is as follows:—</p>
+<p>A Governor (an officer of the army or navy); a Secretary (a Lieutenant or Ensign); an officer of the navy, in charge of the river service; a Commander of the forces (an Ensign); a medical officer with a diploma of one of the schools of medicine of Portugal; a missionary priest: two sergeants; two corporals; twelve privates two trumpeters; a storekeeper in charge of the military stores, &amp;c.; and also the force of sepoys that may be necessary.</p>
+<p>Art. 4. The regular forces shall be employed as the Governor may determine, and the sepoys are bound to render any assistance the Governor may require not only for the defence of the district but for the conveyance of merchandize and of the post-office mails.</p>
+<p>Art. 5. The pay, salaries, allowances, and pay of the officers, missionary, soldiers, and sepoys, as well as the other expenses to be disbursed by the district, are set forth in the Schedule annexed to this Decree and forming part of the same.</p>
+<p>§. During the first year of installation the Government may give an additional allowance of 200 reis (11<hi rend="italic">d</hi>.) to each soldier for expenses of the mess.</p>
+<p>Art. 6. A Committee of three members shall be appointed by the Governor to administer the funds appertaining to the Staff, as well as the stores and ammunition of way of the district.</p>
+<p>Art. 7. The officers, sergeants, and men may be selected either from the regular army or from that of the Colonies.</p>
+<p>Art. 8. The term of service for the men is four years from the date of embarkation, and they will be entitled to all the advantages accorded to the soldiers serving in the Colonial army.</p>
+<p>Art. 9. No corporals or privates can be selected for service in these forces unless they shall have already been serving during two years with good conduct, and having a good healthy appearance and a robust constitution, preference being given to sailors in the navy and to men in the Engineers and Artillery, and also to married men.</p>
+<p>Art. 10. All officers and men will be subject to the regulations in force in the Province of Mozambique</p>
+<p>Art. 11. The sergeants, corporals, and the men may, in addition to the penalties imposed in the military regulations referred to in the foregoing Article, be punished for any faults committed by them, by reducing their rates of pay for a certain number of days not exceeding thirty.</p>
+<p>Art. 12. The uniform to be worn by the regular forces and the sepoys shall be determined by the Governor-General of the province and approved by the Government.</p><p>Art. 13. The necessary provision is to made in the Provincial Budget to meet the expenditure to be incurred in purchasing military stores, arms, furniture and utensils for the soldiers' barracks, and other articles required for the installation of the Staff, &amp;c., in the new district.</p>
+<p>Art. 14. The actual "Capitão-Môr" (Resident-in-chief) of Zumbo will be appointed a Brevet Lieutenant-Colonel of the 2nd line and to the command of the sepoys; and he is to receive the pay set forth in the Schedule annexed to this Decree.</p>
+<p>Art. 15. The district of Zumbo is to be provided with one of more steel steam-launches, properly built and armed, for fiscal and police service in the rivers of the district.</p>
+<p>Art. 16. There shall also be in the disctrict of Zumbo four Hotchkiss guns, of the calibre of 42 millim., with the respective ammunition and extras.</p>
+<p>Art. 17. Two millitary commands shall be established at the confluence of the River Cafucué and at M'chesa.</p>
+<p>§. The Government may establish other military commands at any other places where they may deem it expedient to do so.</p>
+<p>Art. 18. Any Laws in opposition thereto are hereby revoked.</p>
+<p>The Minister and Secretary of State for Marine and Colonies shall accordingly carry this Decree into effect.</p>
+<p>At the Palace, 7th November, 1889.</p>
+</div2>
+<div2 type="signatories">
+<signed>(Signed)    THE KING.</signed>
+<signed>(Countersigned) F<hi rend="smallcaps">REDERICO</hi> R<hi rend="smallcaps">ESSANO</hi> G<hi rend="smallcaps">ARCIA</hi>.</signed>
+</div2>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
