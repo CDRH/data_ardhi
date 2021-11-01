@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00014">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Livigile Treaty 1889</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00014</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Livigile Treaty 1889</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1889">1889</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term key="http://viaf.org/viaf/71400758/#Carlos_I,_Rei_de_Portugal,_1863-1908">Carlos I, King of Portugal, 1863-1908</term>
+</keywords>
+<keywords n="treatydate">
+<term>1889</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="http://www.geonames.org/2264397/portuguese-republic.html">Portugal</term>
+<term>Livigile Hill</term>
+<term key="http://www.geonames.org/1036973/republic-of-mozambique.html">Mozambique</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person>
+<persName></persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-10" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<p>ARTICLE I. The Chief binds himself to be the faithful vassal of His Majesty the King of Portugal, and to obey his Government and officials.</p>
+<p>Art. II. As a sign of submission and vassalage he will receive the national flag which he will hoist at his residence</p>
+<p>Art. III. He will lend all assistance in his power to Portuguese travelling through his country, or who may be under his ptrotection.</p>
+<p>Art. IV. Portuguese and foreign commerce is to be freely allowed in his territory.</p>
+<p>Art. V. He also binds himself never to declare war against another tribe without the approval of the Portugeuse Government.</p>
+<p>The Portuguese Government, on their part, bind themselves (1) to defend and protect the Chief and his people; (2) to facilitate the annual entry of three minors, belonging to the Chief, into the School of Arts and Trades at Mozambique; and (3) to punish other Chiefs who wage war against him without just cause.</p>
+<ab><hi rend="italic">Note.</hi>—None of the Treaties define the limits of the Chief's territory. The terrotory of Chief Checapoto is situated on Livigile Hill.</ab>
+</div1>
+
+</body>
+</text>
+
+</TEI>
