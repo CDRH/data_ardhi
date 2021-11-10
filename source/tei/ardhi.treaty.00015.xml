@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00015">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Mponda Decree 1889</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00015</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Mponda Decree 1889</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1889">1889</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term key="http://viaf.org/viaf/14658460/#Garcia,_Frederico_Ressano">Frederico Ressano Garcia</term>
+</keywords>
+<keywords n="treatydate">
+<term></term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="https://www.geonames.org/924329/lake-nyasa.html">Lake Nyassa</term>
+<term key="https://www.geonames.org/2264397/portuguese-republic.html">Portugal</term>
+<term>M'ponda</term>
+<term>Quilimane</term>
+<term key="http://www.geonames.org/1036973/republic-of-mozambique.html">Mozambique</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000083">
+<persName>Frederico Ressano Garcia</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="1000" who="#INITIALS"></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab><hi rend="italic">Decree</hi></ab>
+<p>THE expedition  recently sent to the neighborhood of Lake Nyassa having accepted, in the name of the Government, acts of vassalage towards the Portugeuse Crown, made voluntarily by the various tribes of that region; and</p>
+<p>Considering that such circumstance necessitates the obligation of civilizing the said tribes, by propagating the Catholic faith; by inspiring them with the love of labour; by employing the utmost efforst and endeavors to suppress the Slave Trade, and obliterate its barbarous uses and customs by means of education and the diffuciton of Christianity;</p>
+<p>And also considering that, for such purpose it is necessary to establish a (Roman) Catholic Mission, properly organized, and provided with the requisite menas to erect churches, schools, and other places of instruction;</p>
+<p>The matter having been considered by the Consulting Committee for the Colonies and the Council of Ministers; and</p>
+<p>In accordance with the authority vested in section 1 of Article 15 of the First Additional Act of the Constitutional Charter of the Kingdom;</p>
+<p>I have to decree as follows:—</p>
+<p>Article 1. A religious Mission is hereby created at M'ponda, on the south-east of Lake Nyassa, or at any place in the same region which may be deemed more convenient. Its principal objects are: the propagation of the Catholic faith among the natives; the building of churches, chapels, and schools; agrictltural colonization; and the suppression of Slave Trade.</p>
+<p>Art. 2. The State will defray the travelling expenses of the missionaries when incurred in the service of the Mission.</p>
+<p>Art. 3. An agency may be established at Guilimane, or any place on the coast of the Province of Mozambique, in order to look after the affairs of the Mission.</p>
+<p>Art. 4. The Mission will be granted an allowance of 3,600,000 reis 800<hi rend="italic">l</hi>.) per annum.</p>
+<p>Art. 5. Any legislation to the contrary is hereby revoked.</p>
+</div2>
+<div2 type="signatories">
+<p>The Secretary of State for the Colonies,</p>
+<signed>(signed)    FREDERICO RESSANO GARCIA
+<hi rend="italic">Palace, August</hi> 12, 1889</signed>
+</div2>
+</div1>
+
+</body>
+</text>
+
+</TEI>
