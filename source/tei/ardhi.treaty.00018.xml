@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00018">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Anglo Portuguese Treaty London 1890</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00018</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Anglo Portuguese Treaty London 1890</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1890">1890</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term key="http://viaf.org/viaf/95738652/#Victoria,_Queen_of_Great_Britain,_1819-1901">Victoria, Queen of Great Britain, 1819 1901</term>
+<term key="http://viaf.org/viaf/71400758/#Carlos_I,_Rei_de_Portugal,_1863-1908">Carlos I of Portugal, King of Portugal from 1889–1908</term>
+<term key="http://viaf.org/viaf/44350506/#Salisbury,_Robert_Cecil,_Marquess_of,_1830-1903">Salisbury, Robert Cecil, Marquess of, 1830-1903</term>
+<term key="http://viaf.org/viaf/120352830/#Luis_Pinto_de_Soveral,_Marquess_de_Soveral">Luiz De Soveral</term>
+</keywords>
+<keywords n="treatydate">
+<term>1890</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="https://www.geonames.org/2264397/portuguese-republic.html">Portugal</term>
+<term key="https://www.geonames.org/876728/zambezi-river.html">Zambesi</term>
+<term key="https://www.geonames.org/1048833/shire-river.html">Shiré</term>
+<term key="https://www.geonames.org/1028495/pungwe.html">Pungué</term>
+<term key="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html">United Kingdom</term>
+<term key="https://www.geonames.org/2643743/london.html">London</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000085">
+<persName>Salisbury, Robert Cecil, Marquess of, 1830-1903</persName>
+</person>
+<person role="signatory" xml:id="per.0000086">
+<persName>Luiz De Soveral</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-11" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab><hi rend="italic">Agreement</hi>.</ab>
+<p>THE Undersigned, duly authorized to
+that effect by their respective Governments, 
+have agreed as follows:—</p>
+<p>I. The Government of His Most Faithful
+Majesty the King of Portugal and the
+Algarves engages to decree at once the
+freedom of navigation of the Zambesi
+and of the Shiré.</p>
+<p>II. The Government of His Most
+Faithful Majesty the King of Portugal and
+the Algarves engages also to permit and
+to facilitate transit oyer the waterways of
+the Zambesi, the Shiré, and the Pungué,
+and also over the land-ways which supply
+means of communication where those
+rivers are not navigable.</p>
+<p>III. The Government of His Most
+Faithful Majesty the King of Portugal
+and the Algarves further engages to
+facilitate communications between the
+Portuguese ports on the coast and the
+territories, included in the sphere of action
+of Great Britain, especially as regards
+the establishment of postal and telegraphic 
+communications, and as regards
+the transport service.</p>
+<p>IV. The Government of Her Majesty
+the Queen of the United Kingdom of
+Great Britain and Ireland, and the Government 
+of His Most Faithful Majesty
+the King of Portugal and the Algarves,
+engage to recognize the territorial limits
+indicated in the Convention of the 20th
+August, 1890, in so far that from the date
+of the present Agreement to the termination 
+thereof neither Power will make
+Treaties, accept Protectorates, or exercise
+any act of sovereignty within the spheres
+of influence assigned to the other party
+by the said Gonvention.</p>
+<p>But neither Power will thereby be held
+to prejudge any Question; whatever which
+may arise as to the said territorial limits
+in the course of the ulterior negotiations.</p>
+<p>V. The present Agreement shall come
+into operation from the date of its signature, 
+and shall remain in force for a period
+of six months.</p>
+<p>Done at London, the 14th day of
+November, 1890. </p>
+</div2>
+<div2 type="signatures">
+<signed>(L.S.) SALISBURY.</signed>
+<signed>(L.S.) LUIZ DE SOVERAL.</signed>
+</div2>
+</div1>
+
+</body>
+</text>
+
+</TEI>
