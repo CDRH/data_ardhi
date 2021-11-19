@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00019">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Portuguese Treaty "Diairio do Governo" 1</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00019</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Portuguese Treaty "Diairio do Governo" 1</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1890">1890</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term key="http://viaf.org/viaf/71400758/#Carlos_I,_Rei_de_Portugal,_1863-1908">Carlos I of Portugal, King of Portugal from 1889–1908</term>
+<term key="http://viaf.org/viaf/18663552/#Ennes,_Ant%C3%B3nio,_1848-1901">Antonio Jozé Ennes</term>
+</keywords>
+<keywords n="treatydate">
+<term>1890</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="https://www.geonames.org/2264397/portuguese-republic.html">Portugal</term>
+<term key="https://www.geonames.org/876728/zambezi-river.html">Zambesi</term>
+<term key="https://www.geonames.org/1048833/shire-river.html">Shiré</term>
+<term key="https://www.geonames.org/1036973/republic-of-mozambique.html">Mozambique</term>
+<term key="https://www.geonames.org/1028495/pungwe.html">Beira</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="per.0000082">
+<persName>Carlos I of Portugal, King of Portugal from 1889–1908</persName>
+</person>
+<person role="signatory" xml:id="per.0000087">
+<persName>Antonio Jozé Ennes</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-11" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab><hi rend="italic">Extract from the "Diario do Governo" of November</hi> 20, 1890.</ab>
+<ab><hi rend="italic">Decree.</hi></ab>
+<p>(Translation.)</p>
+<p>IN view of the Report made to me by the Minister and Secretary of State for the
+Marine and Colonial Department;</p>
+<p>In accordance with the opinion of the Consultative Board for the Colonies, and
+with the advice of the Council of Ministers;</p>
+<p>Availing myself of the powers conferred upon the Government in virtue of the
+first paragraph of Article 15 of the First Additional Act to the Constitutional Charter
+of the Ringdom;</p>
+<p>I hereby decree as follows:—</p>
+<p>Article 1. The transit, as provided in Article 70 of the Decree of the 30th July,
+1877, of merchandize consigned, either by land or by the waterways, to the foreign
+territories adjoining the Portuguese territory on the north or south, or to the regions
+situated beyond the confluence of the Rivers Zambesi and Shiré, through the Custom-houses 
+of the Province of Mozambique, mentioned in the 11th Article of that Decree,
+is hereby allowed to be carried on under the same conditions between the port of
+Beira (Pugwen Bay) and the sphere of British influence.</p>
+<p>Art. 2. Custom-houses or Customs stations will be established at Beira and at
+any points on the internal frontier of the Province of Mozambique where they may be
+required, for the purpose of carrying the preceding Article into effect; the Governor-General 
+of the province will submit to the Government the list of the Customs officials
+required in the said Custom-houses.</p>
+<p>Art. 3. Any Laws in opposition thereto are hereby revoked.</p>
+<p>The aforesaid Minister and Secretary of State shall accordingly carry this Decree
+into effect.</p>
+<p>Given at the Palace, the 18th November, 1890</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed) THE KING.</signed>
+<signed>(Countersigned) ANTONIO JOZÉ ENNES.</signed>
+</div2>
+</div1>
+
+</body>
+</text>
+
+</TEI>
