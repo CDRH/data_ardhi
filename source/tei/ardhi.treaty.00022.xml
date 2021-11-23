@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00022">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Bagwagaza Concessions 1890</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00022</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Bagwagaza Concessions 1890</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1890">1890</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term>Ungugunyan M. Dangazi</term>
+<term>Aurel Schulz</term>
+<term>J. S. Jameson</term>
+<term>Dennis Doyle</term>
+<term>J. K. Felz</term>
+<term>R. T. Felz</term>
+<term>John Ap. Stevens</term>
+</keywords>
+<keywords n="treatydate">
+<term>1890</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term>Manhlagaza</term>
+<term key="https://www.geonames.org/953987/south-africa.html">South Africa</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term>Bagwagaza</term>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="pers.0000088">
+<persName>Ungugunyan M. Dangazi</persName>
+</person>
+<person role="signatory" xml:id="pers.0000089">
+<persName>Aurel Schulz</persName>
+</person>
+<person role="signatory" xml:id="pers.0000090">
+<persName>J. S. Jameson</persName>
+</person>
+<person role="signatory" xml:id="pers.0000091">
+<persName>Dennis Doyle</persName>
+</person>
+<person role="signatory" xml:id="pers.0000092">
+<persName>J. K. Felz</persName>
+</person>
+<person role="signatory" xml:id="pers.0000093">
+<persName>R. T. Felz</persName>
+</person>
+<person role="signatory" xml:id="pers.0000094">
+<persName>John Ap. Stevens</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-11" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab><hi rend="italic">Concession</hi>.</ab>
+<p>Hnow all men whom it may concern, </p>
+<p>THAT a full meeting of the Council of the Bagwagaza nation was held at Manhlagaza 
+n the 4th day of October, 1890, and it was there agreed that I, Ungugunyan, the
+Paramount Chief or Ring of the said nation, should enter into this solemn agreement,
+and, for the considerations hereinafter mentioned, should for myself and my heirs and
+successors, and on behalf of ray said nation, give and grant imto Aurel Schulz, in his
+capacity as the representative of the British South Africa Conapauy, hereinafter called
+"the Company,” the sole, absolute, and entire perpetual right and power to do the
+following acts over the whole or any portion of the territory of the said nation, or any
+future extension thereof, including all subject and dependent territories:—</p>
+<p>(a.) To search, prospect, exploit, dig for, and keep all metals and minerals.</p>
+<p>(b.) To construct, improve, equip, work, manage, and control public works and
+conveniences of all kinds, including railways, tramways, docks, harbours, roads,
+bridges, piers, wharves, canals, reservoirs, waterworks, embankments, viaducts, irrigations
+reclamation improvement, sewage drainage, sanitary, water, gas, electric, or any
+other mode of light, telephonic telegraph power supply, and all other works and conveniences 
+of general or public utility.</p>
+<p>(c.) To carry on business of miners, quarry-owners, metallurgists, mechanical
+engineers, iron-founders, builders and contractors, ship-owners, ship-builders, brick-makers, 
+warehousemen, merchants, importers, exporters, and to buy, sell, and deal in
+goods or properfy of all lands.</p>
+<p>(d.) To carry on the business of banking in all branches.</p>
+<p>(e.) To buy, sell, refine, manipulate, mint, and deal in bullion, specie, coin, and
+precious metals. </p>
+<p>(f.) To manufacture and import arms and ammunition of all kinds.</p>
+<p>{g.) To do all such things as are incidental or conducive to the exercise,
+attainment, or protection of all or any of the rights, powers, and concessions hereby
+granted.</p>
+<p>And I further agree and bind myself, and successors, and nation not to enter into
+any Treaty of Alliance with' any Chief, person, Company, or State, or to grant any
+Concession of land without the consent of the Company in writing; it being understood
+that this covenant shall be considered in the light of a Treaty Of Alliance made between
+the said nation and the Government of Her Britannic Majesty Queen Victoria.</p>
+<p>And, in consideration hereof I, Aurel Schulz, on behalf, of the Company, hereby
+undertake and agree to protect the said King and nation from all outside interference or
+attacks, and to support and maintain the said Chief and his lawful successors in the
+constitutional maintenance and exercise over his subjects of his powers and authority, and
+the Company hereby undertakes to hold its servants liable for any ill-treatment or interference 
+with any of the King’s native subjects, and the Company further hereby agrees
+and undertakes, in token of the amicable and friendly relations subsisting between the
+King and the Company, to appoint and maintain in the said territory a British
+Resident, with a suitable retinue and suite of British subjects, and an escort of British
+police for the due maintenance of law and order within the said territory.</p>
+<p>The Company hereby further agrees that it will, under the King’s supervision
+and authority, aid and assist in the establishment and propagation of the Christian
+religion, and the education and civilization of the native subjects of the King by the
+establishment, maintenance, and endowment of such churches, schools, and trading-stations 
+as may be from time to time mutually agreed on by the King and the
+Resident hereinbefore mentioned, and by the extension and equipment of telegraph,
+and of regular services of postal and transport communications.</p>
+<p>And the Company lastly undertakes and agrees to pay to the said Chief or King,
+and his successors in perpetuity, an annual sum of 500<hi rend="italic">l</hi>., or the equivalent thereof in
+trading goods, at the option of the King.</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed) AUREL SCHULZ, <hi rend="italic">Representative of Ihe British South
+Africa Company</hi>.</signed>
+<signed>UNGUGUNYAN M. DANGAZI, Ms x mark, <hi rend="italic">King
+or Chief of Gazaland</hi>.</signed>
+<signed>Witnesses:</signed>
+<signed>(Signed) J. S. JAMESON.</signed>
+<signed>DENNIS DOYEE.</signed>
+<signed>J. K. FELZ.</signed>
+<signed>I, the Undersigned, declare that this document has been duly and fully translated
+to Engungunyan, King of Gazaland, and his Chief Coimcillors, and that he and they
+fully understand the contents contained therein.</signed>
+<signed>(Signed) R. T. FELZ, <hi rend="italic">Adviser to King Ungugunyan</hi>.</signed>
+<signed>Witnesses:</signed>
+<signed>(Signed) J. S. JAMESON.</signed>
+<signed>JOHN AP. STEVENS.</signed>
+<signed>DENNIS DOYEE.</signed>
+</div2>
+</div1>
+
+</body>
+</text>
+
+</TEI>
