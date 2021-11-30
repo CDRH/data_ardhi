@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00024">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Treaty with Muzila, 1861.</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00024</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Treaty with Muzila, 1861.</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1861">1861</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term>Onofre Lourenço de Andrada</term>
+<term key="http://viaf.org/viaf/121595990/#Lu%C3%ADs_I_de_Portugal_Rei_de_Portugal_e_Algarves_(1861%E2%80%931889)">Luís I, King of Portugal, 1838-1889</term>
+<term>Chieftain Muzila</term>
+<term key="http://viaf.org/viaf/232843140/#Neves,_Diocleciano_Fernandes_das">Diocleciano Fernandes das Neves</term>
+<term>Ignacio José de Paiva Raposo</term>
+<term>José de Sequeira Campello</term>
+<term>Onofre de Paiva de Andrada</term>
+</keywords>
+<keywords n="treatydate">
+<term>1861</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="https://www.geonames.org/7350239/gazaland-school.html">Gazaland</term>
+<term key="https://www.geonames.org/1026804/sofala-province.html">Sofala</term>
+<term key="https://www.geonames.org/1040947/manica-province.html">Manica</term>
+<term key="https://www.geonames.org/1040649/maputo-province.html">Lourenço Marques</term>
+<term key="https://www.geonames.org/2264397/portuguese-republic.html">Portugal</term>
+<term key="https://www.geonames.org/7873980/moamba-district.html">Moamba</term>
+<term>Cherinha</term>
+<term key="https://www.geonames.org/1090080/manhica.html">Manhica</term>
+<term>Jujote</term>
+<term key="https://www.geonames.org/1045278/komati.html">Incomati River</term>
+<term key="https://www.geonames.org/1045110/inhambane-province.html">Inhambane</term>
+<term key="https://www.geonames.org/6942134/bazaruto-archipelago.html">Bazaruto</term>
+<term>Senna</term>
+<term key="https://www.geonames.org/1026014/tete.html">Tete</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="pers.0000104">
+<persName>Diocleciano Fernandes das Neves</persName>
+</person>
+<person role="signatory" xml:id="pers.0000105">
+<persName>Ignacio José de Paiva Raposo</persName>
+</person>
+<person role="signatory" xml:id="pers.0000106">
+<persName>José de Sequeira Campello</persName>
+</person>
+<person role="signatory" xml:id="pers.0000107">
+<persName>Onofre de Paiva de Andrada</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-11" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab>GAZALAND-SOFALA AND MANICA.</ab>
+<p><hi rend="italic">Treaty with Muzila, December</hi> 2,1861.</p>
+<p>TERMS proposed by the Governor of the Lourenço Marques district. Lieutenant-Colonel 
+of the Portuguese army, Onofre Loureuço de Andrada, to the Chieftain
+Muzila, for the concession of assistance requested by him from this Government: the
+former acting for His Most Faithful Majesty the King of Portugal, and the latter in
+his own name and that of his successors: terms accepted by the said Chieftain Muzila
+without constraint or opposition, and in the presence of the under-named witnesses:—</p>
+<p>1. The Chieftain Muzila, after taking oath according to his custom and practice,
+remains a tributary Chieftain and subject of the Portuguese Crown, as well as all his
+subordinates, obeying all orders issued from this Government of Loureço Marques.</p>
+<p>2. The said Chieftain will impose on all his subordinates the utmost respect and
+esteem towards all "molungos” (Portuguese) in transit through his dominions; and
+whenever there may he a breach of this rigorous duty, he, Muzila, shall immediately
+order the culprit to he severely punished, as an example—the privileges of this clause
+are extended to all negroes from the dominions of the Crown who may visit Muzila’s
+territories in public or in private service, whether by order of the Government or of
+any inhabitant of the country.</p>
+<p>3. The commerce and chase of all animals will be free to all. Portuguese who may
+go or send to that effect to the dominions of the said Chieftain Muzila, and, far from
+hindering them, he will protect them to the extent of his power.</p>
+<p>4. The Chieftain Muzila will permit the construction in his own dominions of all
+fortifications that the Portuguese Government may consider necessary for the defence
+and security of the same; and also, all small or large plantations that the said
+Government, or any private person of Portuguese nationalily, may think proper to
+lay or have laid in territories most to the latter’s convenience; and not only the said
+Muzila will not oppose them, but will even direct their choice to the most productive
+soil if so asked.</p>
+<p>5. The Portuguese flag shall be hoisted in the village where the said Chieftain
+Muzila may reside, and he shall not declare war with any people without previously
+informing this Government his motives for so acting, except it be to defend himself
+from any act of aggression made in his territory; and, in this case also and immediately 
+thereafter, he must inform the Government of Lourenço Marques of the fact.</p>
+<p>6. The territories of Moamba, Cherinha, Manhica, and Jujote, on this side of the
+Incomati River, are, from this day, subjected and tributary to the Portuguese Crown,
+and none else will have a right to tribute them.</p>
+<p>7. All “ milando ” (Kaffir dialect) or controversy between white or negro inhabitants 
+of the Crown dominions and Muzila’s subordinates will be judged at this fortress
+in the Governor’s presence, or of any person by him appointed.</p>
+<p>8. The Chieftain Muzila, as soon as he entersinto possession of his dominions, will
+return to this fortress all the refugee negro slaves, and will so continue to do every
+time any slave belonging to the said fortress seeks a shelter in his territories.</p>
+<p>9. The CMeftain Muzila will understand that the respect and esteem imposed by
+Article 2 are extensive to all “molungos” (Portuguese) of Inhambane, Sofala, Bazaruto, 
+Manica, Senna, and Tete, all brethren to the Portuguese of Lourenço Marques.</p>
+<p>10. The Portuguese Government is bound to help the said Chieftain Muzila and
+his successors, wheneverso required, with armed forces, against all aggression made on
+territories occupied by them, so long as the said Chieftain scrupulously complies with
+the duties announced in the foregoing Articles.</p>
+<p>11. The Portuguese Government undertakes the construction of a house made of
+masonry (as is in use in this fortress) for the private use of the said Chieftain Muzila
+and-successors, and at the village by him chosen for his residence.</p>
+<p>12. The Portuguese Government undertakes to defray all expenses of education im
+Portuguese institutionsfor two or more sons of the CMeftain Muzfla, that the same may
+desire to be so-educated.</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed) DIOCLECIANO FERNANDES DAS NEVES.</signed>
+<signed>IGNACIO JOSÉ DE PAIVA RAPOSO.</signed>
+<signed>JOSE PE SEQUEIRA CAMPELLO, <hi rend="italic">Lieutenant
+in charge of the Despatch</hi>.</signed>
+<signed>ONOFRE DE PAIVA DE ANDRADA.</signed>
+<ab><hi rend="italic">Government Quarters of Lourenço Morgues,
+December 2,</hi> 1861.</ab>
+</div2>
+</div1>
+
+</body>
+</text>
+
+</TEI>
