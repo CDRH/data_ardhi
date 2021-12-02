@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00027">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Beira Customs Regulations May 1891</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00027</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Beira Customs Regulations May 1891</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1891">1891</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term>Joaquin Machado</term>
+</keywords>
+<keywords n="treatydate">
+<term>1891</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="https://www.geonames.org/1052373/beira.html">Beira</term>
+<term key="https://www.geonames.org/1028495/pungwe.html">Pungwe River</term>
+<term key="https://www.geonames.org/2264397/portuguese-republic.html">Portugal</term>
+<term key="https://www.geonames.org/1040947/manica-province.html">Manica</term>
+<term key="https://www.geonames.org/1036973/republic-of-mozambique.html">Mozambique</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="pers.0000115">
+<persName>Joaquin Machado</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-12" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab><hi rend="italic">Provisional Regulations for carrying out the Provisions of Article 1 of the Decree, having
+force of law, of the 18th November, 1890.</hi></ab>
+<ab>(Translation.)</ab>
+<p>ARTICLE I. All merchandize disembarked at the port of Beira, and going up the
+Pungwe in order to reach the territories beyond the Portuguese sphere of influence as
+fixed by Article 4 of the <hi rend="italic">modus vivendi</hi> of the 14th November, 1890, shall pay 3 per
+cent, <hi rend="italic">ad valorem</hi> only, in accordance with the provisions of Article 1 of the Decree,
+having force of law, of the 18th November, 1890.</p>
+<p>Art. II. As long as the condition of the country does not allow more practical and
+liberal measures, the owner, agent, or broker of the merchandize passing through
+Portuguese territory in transit shall observe the following Regulations:—</p>
+<p>(a.) He shall state on the transit bill, made out in the required form, the quantity
+and quality of the goods which he intends to clear, and shall then clear them.</p>
+<p>(b.) He shall present to the Head of the Revenue Office of Manica the transit way
+bill delivered to him by the Custom-house at Beira, and shall submit the goods to the
+inspection of merchandize which will take place at the Revenue Office in question.</p>
+<p>(c.) He shall deposit, to the order of the Director of the Custom-house at Beira, a
+sum equal to 12 per cent. of the value of the goods to be cleared, or shall present the
+guarantees of two suitable persons living in Beira, who shall make themselves responsible 
+for the payment of such sum when demanded by the Treasury.</p>
+<p>(d.) The sum deposited shall be repaid to the person who deposited it, or to his
+lawful representative, or, as the case may be, the guarantors shall be relieved of the
+guarantee, on presentation of the certificate issued after the inspection of the merchandize
+at the Revenue Office of Manica.</p>
+<p>(e.) If this certificate is not presented within a period of six months, the deposit
+shall be called in as a receipt to the Treasury, or, as the case may be, the guarantors
+shall be compelled to pay in the amount for which they are responsible.</p>
+<p>(f.) If at the inspection at the Revenue Office of Manica any of the merchandize is
+found to be missing, the official in charge of the Office shall make a statement of the
+goods missing, and of the duty leviable thereon, according to the Import Tariff in force
+in the province; and the amount of such duties shall be called in by the Custom-house
+at Beira from the deposit or from the guarantors liable.</p>
+<p>(g). If more than the right-amount of merchandize is found, the agent shall at the
+Revenue Office of Manica clear the goods that are over for exportation, paying the
+duties in Table (B) of the Tariff in force where the merchandize is the produce or
+manufacture of the Province (of Mozambique); and the duties in Table (A), increased by
+100 per cent. as a fine, where they have been imported from without that province, and
+should consequently have been passed through the Customs at Beira.</p>
+<p>Art. 3. The importation of alcohol, gin, gunpowder, arms and munitions of war of
+all kinds, except under written order issued by tlie superior authorities of the province
+or by their representatives, is prohibited.</p>
+<p>Art. 4. The Customs will verify summarily all merchandize declared for transit, and
+in so doing: will be guided mainly by the bills of landing; a rigorous examination wil
+only be made where there are reasons for suspecting fraud in these papers.</p>
+<p>Art. 5. The Customs will prepare the (transit) way bill in triplicate of all
+merchandize declared for transit; one original will be placed in the archives of the
+Department, another will be handed to the owner or agent of the goods, who will
+present it to the Revenue Office at Manica, and the third will be sent officially to the
+Mead of the Revenue Office in question.</p>
+<p>Art 6. All merchandize found in Portuguese territory without a transit way bill or
+other legal document shall be considered as having evaded the duties, and as such may
+be seized by any Portuguese authority, who shall send them to the nearest Revenue
+Office for the proceedings enjoined by the Regulations in force.</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed) J. MACHADO, <hi rend="italic">Governor-General.
+Office of the Governor-General of the Province of Mozambique,
+Personal Department of the Governor-General,
+Staff Office, Beira, May</hi> 18,1891.</signed>
+</div2>
+</div1>
+
+</body>
+</text>
+
+</TEI>
