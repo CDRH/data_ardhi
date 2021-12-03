@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ardhi.treaty.00029">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Mozambique Order December 1890</title>
+<principal n="Muchiri, Nganga">Nganga Muchiri</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Howells, Phillip H." xml:id="phh">Phillip H. Howells</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority></authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">ardhi.treaty.00029</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Mozambique Order December 1890</title>
+<title level="m"></title>
+<publisher></publisher>
+<biblScope></biblScope>
+<date when="1890">1890</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>  
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subtype">
+<term>Treaty</term>
+</keywords>     
+<keywords scheme="viaf" n="people">
+<term key="http://viaf.org/viaf/30336432/#Fernando_II.,_Rei_de_Portugal_1816-1885">Fernando II de Portugal</term>
+<term>Joaquin Machado</term>
+</keywords>
+<keywords n="treatydate">
+<term>1890</term>
+</keywords>
+<keywords scheme="geonames" n="places">
+<term key="https://www.geonames.org/1036973/republic-of-mozambique.html">Mozambique</term>
+<term key="https://www.geonames.org/1040649/maputo-province.html">Lourenço Marques</term>
+<term key="https://www.geonames.org/3351879/republic-of-angola.html">Angola</term>
+<term key="https://www.geonames.org/3374766/republic-of-cabo-verde.html">Cape Verde</term>
+<term key="https://www.geonames.org/972062/kwazulu-natal.html">Natal</term>
+<term key="https://www.geonames.org/3367577/cape-of-good-hope.html">Cape of Good Hope</term>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>  
+</textClass>
+<particDesc>
+<listPerson>
+<person role="signatory" xml:id="pers.0000115">
+<persName>Joaquin Machado</persName>
+</person>
+</listPerson>
+</particDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-12" who="#phh">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
+<div2>
+<ab><hi rend="italic">Extract from the "Official Bulletin" of the Province of Mozambique of December 27,</hi> 1890.</ab>
+<ab><hi rend="italic">Portaria</hi></ab>
+<p>WHEREAS it is desirable to give facilities to traders passing from place to place
+in this province, and, as far as possible to save them all delay and formalities;</p>
+<p>Whereas under the Decree, having force of law, dated the 10th November, 1887,
+persons going to the port of Lourenço Marques are no longer required to take out
+passports;</p>
+<p>Whereas passports have long ago been abolished in the Provinces of Angola and
+Cape Verde, so far as concerns passage from one place to another in the province, and
+whereas experience has shown that no inconvenience to good order and public security
+has arisen therefrom, notwithstanding that Angola has a penal Settlement like Mozambique;</p>
+<p>Whereas, in the Table of stamp duties for the provinces beyond the seas, the fees
+for passports for the interior were abolished on the understanding that this measure
+would cause no loss to the public Treasury ;</p>
+<p>Whereas the Government Council has been consulted, and whereas I am authorized
+thereto by the Government of His Majesty, in virtue of the powers conferred upon me
+by paragraph 2 of Article 15 of the First Additional Act to the Constitutional Charter
+of Mozambique;</p>
+<ab>I think proper to order as follows:—</ab>
+<p>1. All free persons, in the full enjoyment of their civil and political rights, whether
+Portuguese subjects or foreigners, may pass from one port to another within the
+the province, or from any point of the coast to the interior of the province, in case
+they are going to regions outside Portuguese territory, without the necessity of taking
+out passports.</p>
+<p>2. This order does not invalidate the provisions of the Royal Decrees of the 3rd
+February, 1875, and of the 18th July, 1876, respecting the emigration of natives to the
+Colonies of Natal and of the Cape of Good Hope in case they intend embarking at
+Lourenço Marques, nor the Regulations or other provincial provisions on the above
+subject and on the clandestine emigration of natives.</p>
+<p>Let the authorities and others concerned obey this order and act according to it.</p>
+</div2>
+<div2 type="signatures">
+<signed>(Signed) J. MACHADO, <hi rend="italic">Governor-General</hi>.</signed>
+</div2>
+</div1>
+
+</body>
+</text>
+
+</TEI>
