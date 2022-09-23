@@ -7,14 +7,11 @@ import os
 
 
 def get_metadata(root: ET.Element) -> list:
-    '''
-    Given the root, gets all the metadata you want and returns it in a list
-    '''
     data = []
     file_name = list(root.attrib.values())
     data.append(file_name[0])
 
-    # Use root.find if there's only 1 value you want
+    # Use 'root.find' if there's only 1 value you want
     title = root.find('.//{*}title[@level="a"]').text
 
     data.append(title)
@@ -27,28 +24,37 @@ def get_metadata(root: ET.Element) -> list:
     place__section = root.find('.//{*}keywords[@n="places"]')
     places = []
 
-    # loop through the children in the section
     for curr_place in place__section:
         places.append(curr_place.text)
 
+    #turn the list to a single string
     places_str = '; '.join(places)
 
     data.append(places_str)
 
     return data
 
+def find_single_element(root:ET.Element,keyword:str) -> ET.Element:
+    element = root.find(f'.//{{*}}{keyword}')
+    return element
 
-def get_filepaths(dir_path: str) -> list:
-    '''
-    Given the directory's path, returns all the filepaths including the directory
-    '''
-    files = os.listdir(dir_path)
+def find_multiple_elements(root:ET.Element,keyword:str) -> list:
+    section_element = root.find(f'.//{{*}}{keyword}')
+    children_nodes = []
+    for curr_child in section_element:
+        children_nodes.append(curr_child)
+    return children_nodes
+
+
+def get_filepaths(directory_path: str) -> list:
+
+    files = os.listdir(directory_path)
     # .keep doesn't have data in it
     files.remove('.keep')
 
     file_paths = []
     for curr_file in files:
-        curr_file_path = str(f'{dir_path}/{curr_file}')
+        curr_file_path = str(f'{directory_path}/{curr_file}')
         file_paths.append(curr_file_path)
 
     return file_paths
@@ -58,16 +64,16 @@ def main():
     path = 'source/tei'
     file_paths = get_filepaths(path)
 
-    file_rows = []
+    csv_rows = []
     for curr_file in file_paths:
-        xmlParse = ET.parse(curr_file)
-        root = xmlParse.getroot()
+        root = ET.parse(curr_file).getroot()
         meta_data = get_metadata(root)
-        file_rows.append(meta_data)
+        csv_rows.append(meta_data)
 
-    # Create the dataframe and write to csv
     cols = ['File', 'Title names', 'Places']
-    df = pd.DataFrame(file_rows, columns=cols)
+    df = pd.DataFrame(data=csv_rows, columns=cols)
+
+    #good question is how missing data should be represented
     df.to_csv('output\csv\output.csv', index=False)
 
 
