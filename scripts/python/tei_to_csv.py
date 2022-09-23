@@ -6,18 +6,21 @@ import pandas as pd
 
 #right now looking at 1 file
 
-#need to get each file in the folder eventually 
-
+#need to get each file in the folder eventually
 
 file_path = 'source/tei/ardhi.treaty.00001.xml'
 
-
 xmlparse = ET.parse(file_path)
 root = xmlparse.getroot()
-print(root.tag, root.attrib)
+#print(root.tag, root.attrib)
 
-namespace = {'d' : 'http://www.tei-c.org/ns/1.0'}
-titles = root.findall(path="d:title", namespaces=namespace)
+namespace = {'space' : 'http://www.tei-c.org/ns/1.0'}
+#titles = root.findall(path="d:title", namespaces=namespace)
+#direct path is space:teiHeader/space:fileDesc/space:titleStmt/space:title
+#goal is to make this relative
+titles = root.findall('space:teiHeader/space:fileDesc/space:titleStmt/space:title', namespaces=namespace)
+test = root[0][0][0][0]
+print(f"titles is {test}")
 
 
 if len(titles) > 0:
@@ -28,12 +31,7 @@ else:
 for title in titles:
     print(title.tag, title.attrib)
 
-'''
-for child in root.find('title'):
 
+for child in root:
     print(child.tag, child.attrib)
-'''
-
-
-
 
