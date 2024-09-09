@@ -13,7 +13,7 @@ class TeiToEs
 
   def preprocessing
     file_location = File.join(@options["collection_dir"], "source/authority/locations.csv")
-    @locations = CSV.read(file_location, {
+    @locations = CSV.read(file_location, **{
       encoding: "utf-8",
       headers: true,
       return_headers: true
