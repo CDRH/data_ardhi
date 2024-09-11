@@ -32,12 +32,9 @@ class TeiToEs
       next if !row || !row["latitude"] || !row["longitude"]
 
       {
-        "title" => row["title"],
-        "coordinates" => {
-          "lat" => row["latitude"],
-          "lon" => row["longitude"]
-        },
-        "place_name" => row["place_name"],
+        "name" => row["title"],
+        "coordinates" => [row["longitude"].to_f, row["latitude"].to_f],
+        "short_name" => row["place_name"],
         "street" => row["street"],
         "city" => row["city"],
         "county" => row["county"],
