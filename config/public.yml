@@ -25,7 +25,8 @@ default:
     image_thumb: 150
 
 development:
-  es_index: cdrhapidev-v1
+  api-version: "2.0"
+  es_index: cdrhapidev-v2
   es_path: https://cdrhdev1.unl.edu/elastic
   data_base: https://cdrhdev1.unl.edu/media
   site_url: https://cdrhdev1.unl.edu/ardhi
