@@ -1,38 +1,21 @@
-# please refer to the datura documentation for a full list of configurable settings
-# any custom settings you create here will be accessible in instances of classes
-# like FileTei and TeiToEs ( @options["setting_name"] )
-# you may also create new environments
-
-# please put any sensitive information or computer specific settings in private.yml!
-
 default:
-  # please fill in the name of your collection here
+  project_desc: Ardhi Initiative
   collection: ardhi
-
-  data_base: https://cdrhmedia.unl.edu  # (do not include /data/ in path)
-  media_base: https://cdrhmedia.unl.edu
-  
   tei_html_xsl: scripts/overrides/tei_to_html.xsl
-
-  # refer to the documentation for details about overriding the XSL
-  # html_html_xsl:
-  # tei_html_xsl: scripts/xslt/tei.xsl
-  # vra_html_xsl:
-
-  variables_html:
-    site_url: override_in_public
-    image_large: 800
-    image_thumb: 150
+  api_version: "2.0"
+  threads: 20
 
 development:
-  api-version: "2.0"
+  site_url: https://servername.unl.edu/ardhi
+  es_path: https://servername.unl.edu/elastic
   es_index: cdrhapidev-v2
-  es_path: https://cdrhdev1.unl.edu/elastic
-  data_base: https://cdrhdev1.unl.edu/media
-  site_url: https://cdrhdev1.unl.edu/ardhi
+  media_base: https://servername.unl.edu
+  data_base: https://servername.unl.edu/media
 
-# production:
-  # limit processed files by adding allowed ids on newlines in a file
-  # allowed_files: config/allowed.txt
-  # site_url: TODO
-
+production:
+  site_url: https://ardhi.unl.edu
+  es_path: https://cdrhapi.unl.edu/elastic
+  es_index: cdrhapi-v2
+  media_base: https://servername.unl.edu
+  data_base: https://servername.unl.edu/media
+  # remove once Cody is powered by orchid site
