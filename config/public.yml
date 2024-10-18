@@ -18,4 +18,3 @@ production:
   es_index: cdrhapi-v2
   media_base: https://servername.unl.edu
   data_base: https://servername.unl.edu/media
-  # remove once Cody is powered by orchid site
