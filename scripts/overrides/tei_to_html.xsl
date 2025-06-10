@@ -31,10 +31,53 @@
   <xsl:param name="media_base"/>
   <xsl:param name="site_url"/>
 
+  <xsl:variable name="newline" select="'&#x0A;'"/>
+  <xsl:variable name="title" select="//teiHeader//titleStmt//title[1]"/>
+  <xsl:variable name="date" select="//keywords[@n='treatydate']/term[1]"/>
+  <xsl:variable name="document" select="tokenize(base-uri(.),'/')[last()]"/>
+
+
   <!-- ==================================================================== -->
   <!--                            OVERRIDES                                 -->
   <!-- ==================================================================== -->
 
+    <!-- Create front matter (YML) header -->
+  <xsl:template match="/">
+    <xsl:text>---</xsl:text>
+    <xsl:value-of select="$newline"/>
+    <xsl:text>title: </xsl:text><xsl:value-of select="$title"/>
+    <xsl:value-of select="$newline"/>
+    <xsl:text>document: </xsl:text><xsl:value-of select="$document"/>
+    <xsl:value-of select="$newline"/>
+    <!-- author should be an array because there are multiple values -->
+    <xsl:text>signatory: [</xsl:text>
+    <xsl:for-each select="//person[@role='signatory']">
+      <xsl:variable name="signatoryName" select="./persName"/>
+      <xsl:variable name="count" select="count(following::person[@role='signatory'])"/>
+      <xsl:choose>
+        <xsl:when test="./persName = preceding::person[@role='signatory']/persName"/>
+        <xsl:otherwise>
+          <xsl:text>"</xsl:text><xsl:value-of select="$signatoryName"/><xsl:text>"</xsl:text>
+          <xsl:if test="$count != 0">
+            <xsl:if test="following::person[@role='signatory'][./persName != preceding::person[@role='signatory']/persName]"><xsl:text>,</xsl:text></xsl:if>
+          </xsl:if>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:for-each>
+    <xsl:text>]</xsl:text>
+    <xsl:value-of select="$newline"/>
+    <xsl:text>date: </xsl:text><xsl:value-of select="$date"/>
+    <xsl:value-of select="$newline"/>
+    <!--<xsl:text>category: </xsl:text><xsl:value-of select="$category"/>-->
+    <xsl:text>category: document</xsl:text>
+    <xsl:value-of select="$newline"/>
+    <xsl:text>---</xsl:text>
+    <xsl:value-of select="$newline"/>
+    <xsl:value-of select="$newline"/>
+    <h1 class="pagefind" data-pagefind-meta="title"><xsl:value-of select="$title"/></h1>
+    <xsl:apply-templates/>
+  </xsl:template>
+  
   <xsl:template match="pb">
    <!-- do nothing -->
   </xsl:template>
