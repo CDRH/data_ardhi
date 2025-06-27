@@ -49,8 +49,8 @@
     <xsl:value-of select="$newline"/>
     <xsl:text>document: </xsl:text><xsl:value-of select="$document"/>
     <xsl:value-of select="$newline"/>
-    <!-- author should be an array because there are multiple values -->
-    <xsl:text>signatory: [</xsl:text>
+    <!-- creator should be an array because there are multiple values -->
+    <xsl:text>creator: [</xsl:text>
     <xsl:for-each select="//person[@role='signatory']">
       <xsl:variable name="signatoryName" select="./persName"/>
       <xsl:variable name="count" select="count(following::person[@role='signatory'])"/>
