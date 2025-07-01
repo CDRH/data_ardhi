@@ -66,6 +66,30 @@
     </xsl:for-each>
     <xsl:text>]</xsl:text>
     <xsl:value-of select="$newline"/>
+    <!-- place should be an array because there are multiple values -->
+    <xsl:text>place: [</xsl:text>
+    <xsl:for-each select="//keywords[@n='places']/term">
+      <xsl:variable name="placeName" select="."/>
+      <xsl:variable name="count" select="count(following-sibling::term)"/>
+      <xsl:if test="$placeName != ''"><xsl:text>"</xsl:text><xsl:value-of select="$placeName"/><xsl:text>"</xsl:text></xsl:if>
+      <xsl:if test="$count != 0">
+        <xsl:if test="following-sibling::term != ''"><xsl:text>,</xsl:text></xsl:if>
+      </xsl:if>
+    </xsl:for-each>
+    <xsl:text>]</xsl:text>
+    <xsl:value-of select="$newline"/>
+    <!-- ethnic group should be an array because there are multiple values -->
+    <xsl:text>ethnic_group: [</xsl:text>
+    <xsl:for-each select="//keywords[@n='ethnic_group']/term">
+      <xsl:variable name="groupName" select="."/>
+      <xsl:variable name="count" select="count(following-sibling::term)"/>
+      <xsl:if test="$groupName != ''"><xsl:text>"</xsl:text><xsl:value-of select="$groupName"/><xsl:text>"</xsl:text></xsl:if>
+      <xsl:if test="$count != 0">
+        <xsl:if test="following-sibling::term != ''"><xsl:text>,</xsl:text></xsl:if>
+      </xsl:if>
+    </xsl:for-each>
+    <xsl:text>]</xsl:text>
+    <xsl:value-of select="$newline"/>
     <xsl:text>date: </xsl:text><xsl:value-of select="$date"/>
     <xsl:value-of select="$newline"/>
     <!--<xsl:text>category: </xsl:text><xsl:value-of select="$category"/>-->
@@ -74,7 +98,7 @@
     <xsl:text>---</xsl:text>
     <xsl:value-of select="$newline"/>
     <xsl:value-of select="$newline"/>
-    <h1 class="pagefind" data-pagefind-meta="title"><xsl:value-of select="$title"/></h1>
+    
     <xsl:apply-templates/>
   </xsl:template>
   
